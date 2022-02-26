@@ -1,0 +1,671 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The form of consecration of a church or chappel. And of the place of Christian buriall. / Exemplified by the R.R.F. in God, Lancelot late lord-bishop of Winchester, in the consecration of the Chappel of Jesus in the foresaid diocess.</title>
+            <author>Andrewes, Lancelot, 1555-1626.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 68 KB of XML-encoded text transcribed from 75 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75337</idno>
+            <idno type="STC">Wing A3126</idno>
+            <idno type="STC">ESTC R210146</idno>
+            <idno type="EEBO-CITATION">45097492</idno>
+            <idno type="OCLC">ocm 45097492</idno>
+            <idno type="VID">171112</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75337)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171112)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2559:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The form of consecration of a church or chappel. And of the place of Christian buriall. / Exemplified by the R.R.F. in God, Lancelot late lord-bishop of Winchester, in the consecration of the Chappel of Jesus in the foresaid diocess.</title>
+                  <author>Andrewes, Lancelot, 1555-1626.</author>
+               </titleStmt>
+               <extent>[27], 120 p. : ill., port.  </extent>
+               <publicationStmt>
+                  <publisher>Sold by T. Garthwait at the little North-door of S. Pauls.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated added t.p.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church dedication --  England.</term>
+               <term>Consecration of cemeteries --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171112:1" rendition="simple:additions"/>
+            <p>THE Form of Conſecration OF A <hi>Church</hi> or <hi>Chappel.</hi> And Of the Place of <hi>Chriſtian Buriall.</hi>
+            </p>
+            <p>Exemplified By the R. R. F. in God <hi>LANCELOT</hi> Late Lord-Biſhop of <hi>Winchester,</hi> In the Conſecration of the <hi>Chappel</hi> of <hi>JES<g ref="char:V">Ʋ</g>S</hi> in the foreſaid Dioceſs.</p>
+            <p>
+               <hi>LONDON,</hi> Sold by <hi>T. Garthwait</hi> at the little North-door of <hi>S. Pauls.</hi> 1659.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:171112:2"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of Lancelot Andrews</figDesc>
+               </figure>
+               <pb facs="tcp:171112:2"/>
+               <figure>
+                  <q>Dog of Eccleſiae</q>
+                  <p>The Forme-of CONSECRATION of a CHVRCH or <hi>Chappel,</hi> and of the place of Chriſ<g ref="char:EOLhyphen"/>tian Buryall,</p>
+                  <p>Exemplified, <hi>by the R. R. F. in God.</hi> LANCEL. ANDREWES <hi>late L. Biſhop of Winchester.</hi>
+                  </p>
+               </figure>
+            </p>
+            <pb facs="tcp:171112:3"/>
+            <pb facs="tcp:171112:3" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:171112:4"/>
+            <pb facs="tcp:171112:4"/>
+            <head>To the Chriſtian Readers.</head>
+            <p>THat ſome Memoriall might be tranſmitted to Po<g ref="char:EOLhyphen"/>ſterity of the Piety of the Church of <hi>En<g ref="char:EOLhyphen"/>gland,</hi> and of the re<g ref="char:EOLhyphen"/>ligious
+<pb facs="tcp:171112:5"/>care of our Reverend Fathers, in ſeperating ſe<g ref="char:EOLhyphen"/>lect and ſpeciall places, ſuch are Churches, Chappels, and Oratories, for the Publike Service of God, and Celebra<g ref="char:EOLhyphen"/>tion of the Divine Myſteries, here is preſented to you, Chriſtian Readers, a Form of Conſecra<g ref="char:EOLhyphen"/>tion
+<pb facs="tcp:171112:5"/>drawn up by the Right Reverend Father in God, <hi>Lan<g ref="char:EOLhyphen"/>celot,</hi> late <hi>Lord Bi<g ref="char:EOLhyphen"/>ſhop</hi> of <hi>VVinche<g ref="char:EOLhyphen"/>ſter;</hi> a perſon of ſo great learning and piety; and therefore juſtly of eminency and honor, not only in this Nationall, but alſo in the Ca<g ref="char:EOLhyphen"/>tholike Church of <hi>God,</hi> where He is
+<pb facs="tcp:171112:6"/>admired by all judi<g ref="char:EOLhyphen"/>cious and Knowing-perſons, for his moſt excellent <hi>Sermons,</hi> acute <hi>Diſcourſes,</hi> and pious <hi>Devoti<g ref="char:EOLhyphen"/>ons,</hi> That the Pub<g ref="char:EOLhyphen"/>liſher hereof makes no queſtion, but he ſhall hereby do an acceptable Service to the Church of God, and in ſome meaſure ſtop the
+<pb facs="tcp:171112:6"/>mouthes of the pro<g ref="char:EOLhyphen"/>fane Noveliſts, who never more then now, <hi>ſhoot out their arrows, even bitter words,</hi> Pſ. <hi>64.3.</hi> a<g ref="char:EOLhyphen"/>gainſt ſuch <hi>H. Pla<g ref="char:EOLhyphen"/>ces,</hi> as by the Word of God, and Pray<g ref="char:EOLhyphen"/>er are ſolemnly dedi<g ref="char:EOLhyphen"/>cated and ſet apart with religious Cere<g ref="char:EOLhyphen"/>monies, to the alone worſhip and Ser<g ref="char:EOLhyphen"/>vice
+<pb facs="tcp:171112:7"/>of Almighty God.</p>
+            <p>It is not his in<g ref="char:EOLhyphen"/>tent to draw either end of the Saw of contention, to juſti<g ref="char:EOLhyphen"/>fie the Conſecration of Churches in ge<g ref="char:EOLhyphen"/>nerall, or <hi>this Form</hi> in particular; as be<g ref="char:EOLhyphen"/>ing well aſſured that nothing can be rati<g ref="char:EOLhyphen"/>onally objected a<g ref="char:EOLhyphen"/>gainſt the One or the
+<pb facs="tcp:171112:7"/>Other, but what hath either been long ſince anſwered by the invincible hand of the judicious <hi>Mr. Hooker</hi> in his <hi>Eccleſiaſticall Poli<g ref="char:EOLhyphen"/>tie;</hi> or will fall flat on his face, as <hi>Da<g ref="char:EOLhyphen"/>gon</hi> before the <hi>Ark,</hi> at the very mention of the great name of the renowned and victorious <hi>Biſhop</hi>
+               <pb facs="tcp:171112:8"/>of <hi>VVincheſter;</hi> a<g ref="char:EOLhyphen"/>gainſt whom neither of the Factions be<g ref="char:EOLhyphen"/>twixt which the <hi>Church of England</hi> hath been Crucified, as her bleſſed Savi<g ref="char:EOLhyphen"/>our between the two Thieves, hath been ever ſtirring hand or tongue, but like the Souldiers, which came to apprehend our Lord, <hi>they went
+<pb facs="tcp:171112:8"/>backward, and fell to the ground.</hi>
+            </p>
+            <p>This ſaid, He re<g ref="char:EOLhyphen"/>commends it to the <hi>Publike</hi> benefit, not without ſome confi<g ref="char:EOLhyphen"/>dence that it may, by the bleſſing of God, have ſome influence and operation on the ſtony hearts, and i<g ref="char:EOLhyphen"/>ron hands of the Sa<g ref="char:EOLhyphen"/>crilegious generati<g ref="char:EOLhyphen"/>on of them; <hi>VVho
+<pb facs="tcp:171112:9"/>roar in the Congre<g ref="char:EOLhyphen"/>gations, and ſet up their banners for to<g ref="char:EOLhyphen"/>kens;</hi> of them, <hi>who break down all the carved work therof with axes and ham<g ref="char:EOLhyphen"/>mers;</hi> of them, <hi>who have ſet fire upon the Holy places, and have defiled the dwelling places of</hi> Gods <hi>name, even to the ground;</hi> Pſ. <hi>74;
+<pb facs="tcp:171112:9"/>Of them,</hi> who ſay, Let us take to our ſelves the Houſes of God in poſſeſſion; <hi>of them,</hi> who have caſt their heads to<g ref="char:EOLhyphen"/>gether, and are con<g ref="char:EOLhyphen"/>federate againſt them. <hi>But if not,</hi> ſperabo autem &amp; adhuc meliora, <hi>let them beware of the Pſalmiſts impreca<g ref="char:EOLhyphen"/>tion,</hi> O my God,
+<pb facs="tcp:171112:10"/>make them like un<g ref="char:EOLhyphen"/>to a wheel; and as the ſtubble before the winde. <hi>Pſal.</hi> 83. <hi>Which curſe that by timely repentance it may be prevented, is another ground of the publication here<g ref="char:EOLhyphen"/>of; and a part of his daily prayers who promoted the Impreſſion, with the longings of St.</hi> Paul.
+<pb facs="tcp:171112:10"/>Rom. 10.1. Bre<g ref="char:EOLhyphen"/>thren, my hearts deſire, and prayer to God for our Iſrael is, that they may be ſaved.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>May</hi> 29. 1659.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="note">
+            <pb facs="tcp:171112:11"/>
+            <pb facs="tcp:171112:11"/>
+            <head>A <hi>Note</hi> of the Reve<g ref="char:EOLhyphen"/>rence given to the Wor<g ref="char:EOLhyphen"/>ſhip of God in the Iſrae<g ref="char:EOLhyphen"/>lites Ordering their Troopes, out of <hi>Sr. Wal<g ref="char:EOLhyphen"/>ter Raleghs</hi> Hiſtory, <hi>Book 2. Part 1. Cap. 5. §. 1. pag. 249. Edit. 1648.</hi>
+            </head>
+            <p>THis was the Order of the Army of <hi>Iſrael</hi> and of their in<g ref="char:EOLhyphen"/>camping, &amp;c. The <hi>Ta<g ref="char:EOLhyphen"/>bernacle of God</hi> being al<g ref="char:EOLhyphen"/>ways ſet in the middle
+<pb facs="tcp:171112:12"/>and center thereof The Reverend care which Moſes the prophet and Choſen ſervant of God had in all that belonged even to the outward and leaſt parts of the <hi>Tabernacle, Ark</hi> and <hi>Sanctuary,</hi> witneſſed well the inward and moſt humble zeal borne towards God himſelf. The induſtry uſed in the framing thereof, and every the leaſt part thereof; the curious Workmanſhip thereon beſtowed, the
+<pb facs="tcp:171112:12"/>exceeding charge and expence in the proviſi<g ref="char:EOLhyphen"/>ons, the dutifull obſer<g ref="char:EOLhyphen"/>vance in the laying up and preſerving the Ho<g ref="char:EOLhyphen"/>ly veſſels, the ſolemn Removing thereof, the vigilant Attendance thereon, and the provi<g ref="char:EOLhyphen"/>dent defence of the Same, which all Ages have in ſome degree im<g ref="char:EOLhyphen"/>itated, is now ſo forgot<g ref="char:EOLhyphen"/>ten in this <hi>ſuperfine</hi> Age by thoſe of the <hi>Family,</hi> by the <hi>Ana<g ref="char:EOLhyphen"/>baptiſt, Browniſt</hi> and o<g ref="char:EOLhyphen"/>ther Sectaries as all
+<pb facs="tcp:171112:13"/>coſt and care beſtowed and had of the Church wherein God is to be ſerved and worſhipped is accounted a kind of Popery and as proceed<g ref="char:EOLhyphen"/>ing from an Idolatrous diſpoſition, in ſo much as time would ſoone bring to paſſe (if it were not reſiſted) that God would be turned out of Churches into Barns, and from thence again into the Fields and Mountaines, and un<g ref="char:EOLhyphen"/>der the hedges; and the Offices of the mini<g ref="char:EOLhyphen"/>ſtry
+<pb facs="tcp:171112:13"/>
+               <pb facs="tcp:171112:14"/>(robbed of all dig<g ref="char:EOLhyphen"/>nity and reſpect) be as contemptible as thoſe places; All Order, Di<g ref="char:EOLhyphen"/>ſcipline and Church Government, left to Newneſs of Opinion and mens fancies: yea and ſoon after as many kinds of Religions would ſpring up as there are Pariſh Chur<g ref="char:EOLhyphen"/>ches in England, every contentious &amp; ignorant perſon clothing his fan<g ref="char:EOLhyphen"/>cy with <hi>the Spirit of God</hi> and his imagination with the <hi>gift of Revelati<g ref="char:EOLhyphen"/>on,</hi>
+               <pb facs="tcp:171112:14"/>
+               <pb facs="tcp:171112:15"/>in ſo much as when the <hi>Truth,</hi> which is but <hi>one,</hi> ſhall appear to the ſimple multitude, no leſs variable then con<g ref="char:EOLhyphen"/>trary to it ſelf, the <hi>Faith</hi> of men will ſoon after dye away by degrees and all Religion be held in ſcorn and contempt, &amp;c.</p>
+         </div>
+      </front>
+      <body>
+         <div n="chapel" type="consecration">
+            <pb n="1" facs="tcp:171112:15"/>
+            <head>Conſecratio CAPELLAE <hi>JES<g ref="char:V">Ʋ</g>,</hi> ET COEMETERII, PER <hi>LANCE LOT<g ref="char:V">Ʋ</g>M</hi> Epiſcopum Winton.</head>
+            <p>
+               <hi>J<g ref="char:V">Ʋ</g>xta Southamptoni<g ref="char:EOLhyphen"/>enſem villam Ec<g ref="char:EOLhyphen"/>cleſia Beatae Mariae collapſa cernitur, ſolis Cancellis ad ſacros uſus ſuperſtitibus: paucae ali<g ref="char:EOLhyphen"/>quot aedes ibi in propin<g ref="char:EOLhyphen"/>quâ parte numerantur;
+<pb n="2" facs="tcp:171112:16"/>coetera Parochianorum multitudo hinc inde ſpar<g ref="char:EOLhyphen"/>ſim inhabitant in villis, tum loci longinquo in<g ref="char:EOLhyphen"/>tervallo, tum aeſtuario longè periculoſo diviſi ab Eccleſiâ. Ex eâ acceden<g ref="char:EOLhyphen"/>di difficultate non profa<g ref="char:EOLhyphen"/>nae modo plebeculae animos facilè invaſit miſera neg<g ref="char:EOLhyphen"/>ligentia atque diſpretio divini cultus, ſed &amp; vi<g ref="char:EOLhyphen"/>ri proli ſedulique pietatis cultores remoram in tra<g ref="char:EOLhyphen"/>jectu ſaepe experti ſunt, haud ipſo quidem: capi<g ref="char:EOLhyphen"/>tum diſcrimine eluctabi<g ref="char:EOLhyphen"/>lem; conſortem hujus in<g ref="char:EOLhyphen"/>fortunii cum ſe factum ſentiret (dum ibi loci fa<g ref="char:EOLhyphen"/>miliam poneret) Vir <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re<g ref="char:EOLhyphen"/>nuus</hi>
+               <pb n="3" facs="tcp:171112:16"/>Richardus Smith <hi>Armiger, heroicos planè animos geſtans, atque in<g ref="char:EOLhyphen"/>ſpiratos de Coelo, commune hoc Religionis diſpendi<g ref="char:EOLhyphen"/>um privatis quingenta<g ref="char:EOLhyphen"/>rum aliquot librarum ex<g ref="char:EOLhyphen"/>penſis (aut plus eo) re<g ref="char:EOLhyphen"/>demit, &amp; Capellam egre<g ref="char:EOLhyphen"/>giam, quam Deo diviniſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> officiis dicari ſupplex vo<g ref="char:EOLhyphen"/>vet, in alterâ parte flu<g ref="char:EOLhyphen"/>minis magnificè extruit.</hi>
+            </p>
+            <p>
+               <hi>Spectato probato<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Ca<g ref="char:EOLhyphen"/>pellae hujus Jeſu omni ad<g ref="char:EOLhyphen"/>paratu, adeſt tandem Re<g ref="char:EOLhyphen"/>verendiſſimus in Chriſto Pater, Honorandiſſimus</hi> Lancelotus, <hi>Epiſcopus Wintonienſis, Septembris</hi>
+               <pb n="4" facs="tcp:171112:17"/>17<hi rend="sup">o</hi>. <hi>Anno</hi> 1620. <hi>horâ ectavâ matutinâ aut cir<g ref="char:EOLhyphen"/>citer; erat autem dies Dominicus: Epiſcopus Capellam ſtatim ingreſſus induit ſe pontificalibus, quem ſecuti itidem (qui ipſi à ſacris domeſticis ad<g ref="char:EOLhyphen"/>erant,</hi>) Matthaeus <hi>&amp;</hi> Chriſtopherus Wren, <hi>SS. Theol. Bacc. Saecer<g ref="char:EOLhyphen"/>dotalibus induuntur; E<g ref="char:EOLhyphen"/>greſſus dein cum illis E<g ref="char:EOLhyphen"/>piſcopus, convenarum ma<g ref="char:EOLhyphen"/>gnâ ſtipante catervâ, Fundatorem affari ordi<g ref="char:EOLhyphen"/>tur in haec ferè verba.</hi>
+            </p>
+            <q>
+               <p>Captain <hi>Smith,</hi> you have been an often and earneſt Suiter to me,
+<pb n="5" facs="tcp:171112:17"/>that I would come hi<g ref="char:EOLhyphen"/>ther to you: now that we are come hither to you, what have you to ſay to us?</p>
+            </q>
+            <p>
+               <hi>Tum ille praefatâ hu<g ref="char:EOLhyphen"/>millime Reverentiâ ſche<g ref="char:EOLhyphen"/>dulam porrigit, quam ſuo nomine recitari cupit per Willielm. Cole, qui Epi<g ref="char:EOLhyphen"/>ſcopo à Regiſtris erat: e<g ref="char:EOLhyphen"/>am ille (ad nutum Epi<g ref="char:EOLhyphen"/>ſcopi) clarâ voce ſic per<g ref="char:EOLhyphen"/>legit.</hi>
+            </p>
+            <q>
+               <p>IN the Name of <hi>Ri<g ref="char:EOLhyphen"/>chard Smith</hi> of <hi>Peer<g ref="char:EOLhyphen"/>tree</hi> in the County of <hi>Southampton</hi> 
+                  <abbr>Eſq</abbr>, Right Reverend Father in
+<pb n="6" facs="tcp:171112:18"/>God, I preſent unto you the ſtate of the Village of <hi>Weſton,</hi> and the Ham<g ref="char:EOLhyphen"/>lets, <hi>Itchin, Wolſton, Ridgeway,</hi> and the part of <hi>Bittern</hi> Mannor (be<g ref="char:EOLhyphen"/>ing all of the Pariſh of <hi>S. Maries,</hi> neer <hi>Southam<g ref="char:EOLhyphen"/>pton</hi> in the Dioceſs of <hi>Winton</hi>) as well in his own, as in the name of the Inhabitants of the ſaid Village, Hamlets, &amp;c. wherein are many Houſholds, and much people of all ſorts, who not only dwell far from the Church, but are al<g ref="char:EOLhyphen"/>ſo divided from the ſame by the great Ri<g ref="char:EOLhyphen"/>ver of <hi>Itchin,</hi> where the
+<pb n="7" facs="tcp:171112:18"/>paſſage is very broad, and often dangerous; and very many times on the dayes appointed for Common-Prayer, and that Service of God, ſo tempeſtuous, as the River cannot be paſs'd; and ſo the peo<g ref="char:EOLhyphen"/>ple go not over at all; or if any do, yet they both go and return back in great danger, and ſometimes not the ſame day. Beſides, in the faireſt weather, at their return from Church, they preſs ſo thick into the Boat for haſte home, that often it proves dangerous, and ever
+<pb n="8" facs="tcp:171112:19"/>fearful, eſpecially to women with childe, old, impotent, ſickly people, and to young children; many times alſo they are forc'd to baptize their Children in pri<g ref="char:EOLhyphen"/>vate Houſes, the water not being paſſable; and when they lye ſick, they are without comfort to their ſouls, and dye without any Ghoſtly advice or counſel; their own Miniſter not being able to viſit them, by reaſon of the roughneſs of the water, and other Miniſters being ſome miles off remote from them.</p>
+               <pb n="9" facs="tcp:171112:19"/>
+               <p>And thus much for<g ref="char:EOLhyphen"/>merly having been pre<g ref="char:EOLhyphen"/>ſented to your Prede<g ref="char:EOLhyphen"/>ceſſor, he favourably gave leave to the ſaid <hi>Richard Smith</hi> to erect a Chappel on the Eaſt-ſide of the ſaid River, at the only proper Coſt and Charges of him the ſaid <hi>Richard Smith:</hi> which Chappel being now finiſh'd with intent and purpoſe that it may be dedicated to the wor<g ref="char:EOLhyphen"/>ſhip of God; and that his Holy and Bleſſed Name might there be honour'd and call'd up<g ref="char:EOLhyphen"/>on, by the ſaid <hi>Richard Smith</hi> his Family, and
+<pb n="10" facs="tcp:171112:20"/>the Inhabitants afore<g ref="char:EOLhyphen"/>ſaid, who cannot with<g ref="char:EOLhyphen"/>out great danger paſs over unto their Pariſh Church, I, in the name of the ſaid <hi>Richard Smith,</hi> and in the names of them all, do promiſe hereafter to refuſe and renounce to put this Chappel, or any part of it, to any profane or common uſe whatſo<g ref="char:EOLhyphen"/>ever; and deſire it may be dedicated and con<g ref="char:EOLhyphen"/>ſecrated wholly and on<g ref="char:EOLhyphen"/>ly to religious uſes, for the Glory of God, and the Salvation of our Souls.</p>
+               <pb n="11" facs="tcp:171112:20"/>
+               <p>In which reſpect he <hi>humbly</hi> beſeecheth God to accept of this his ſin<g ref="char:EOLhyphen"/>cere intent and purpoſe, and he and they are to<g ref="char:EOLhyphen"/>gether humble Suiters unto your Lordſhip, as Gods Miniſter, the Bi<g ref="char:EOLhyphen"/>ſhop and Ordinary of this Dioceſs, in Gods ſtead to accept of this his Free-will offering; and to decree this <hi>Chap<g ref="char:EOLhyphen"/>pel</hi> to be ſevered from all common and pro<g ref="char:EOLhyphen"/>fane uſes, &amp; ſo to ſever it: as alſo by the Word of God and Prayer, and other Spiritual and Re<g ref="char:EOLhyphen"/>ligious Duties to dedi<g ref="char:EOLhyphen"/>cate and conſecrate it
+<pb n="12" facs="tcp:171112:21"/>to the ſacred Name of God, and to his Ser<g ref="char:EOLhyphen"/>vice and Worſhip only; promiſing that we will ever hold it as an holy Place, even as Gods Houſe, and uſe it ac<g ref="char:EOLhyphen"/>cordingly; and that we will from time to time, and ever hereafter, as need ſhall be, ſee it con<g ref="char:EOLhyphen"/>veniently repair'd, and decently furniſht in ſuch ſort as a Chappel ought to be; And that we will procure us ſome ſufficient Clerk, being in the Holy Order of Prieſthood by your Lordſhip, as Ordinary of that place, and by
+<pb n="13" facs="tcp:171112:21"/>your Succeſſors to be allow'd and licenced, and unto him to yield competent <hi>Maintenance,</hi> to the end that he may take upon him the <hi>Cure</hi> of the ſaid Chappel; and duely ſay divine Service in the ſame at times appointed, and perform all other ſuch offices and duties, as by the Canons of that Church, and the Laws of the Realm every Curate is bound to per<g ref="char:EOLhyphen"/>form.</p>
+            </q>
+            <p>
+               <hi>Poſt haec Epiſcopus.</hi>
+            </p>
+            <p>Captain <hi>Smith</hi> is this
+<pb n="14" facs="tcp:171112:22"/>the Deſire of you and your Neighbours?</p>
+            <p>
+               <hi>Quo affirmato, Ille:</hi>
+            </p>
+            <q>
+               <p>In the Name of God let us begin.</p>
+            </q>
+            <p>
+               <hi>Orditur igitur â Pſal<g ref="char:EOLhyphen"/>mo</hi> 24<hi rend="sup">o</hi>
+            </p>
+            <q>
+               <p>THe earth is the Lords, and all that is therein, &amp;c.</p>
+            </q>
+            <p>
+               <hi>Alterni verò reſpon<g ref="char:EOLhyphen"/>dent uterque Sacellanus; &amp; ſic deinceps ad finem Pſalmi: dictâ autem</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>paulatim ſe promo<g ref="char:EOLhyphen"/>vet Epiſcopus ad portam
+<pb n="15" facs="tcp:171112:22"/>Capellae, atque recitat è Pſalmo</hi> 122<hi rend="sup">o</hi>.</p>
+            <q>
+               <p>I Was glad when they ſaid unto me, we will go into the Houſe of the Lord. Our feet ſhall ſtand in thy Gates, O Jeruſalem.</p>
+            </q>
+            <p>
+               <hi>Subſtitit itaque prae fo<g ref="char:EOLhyphen"/>ribus univerſa multitudo intrante Epiſcopo et Fun<g ref="char:EOLhyphen"/>datore, cum Sacellanis, qui genua ſtatim flectunt, ubi ſpectari commodè au<g ref="char:EOLhyphen"/>diríque poſſint a plebe: atque Epiſcopus infit.</hi>
+            </p>
+            <q>
+               <p>Let us dedicate and offer up unto God this
+<pb n="16" facs="tcp:171112:23"/>Place with the ſame prayer that King <hi>Da<g ref="char:EOLhyphen"/>vid</hi> did dedicate and of<g ref="char:EOLhyphen"/>fer up his: 1 <hi>Chron.</hi> 29.10.</p>
+               <p>BLeſſed be thou O Lord our God, and the God of our Fathers for ever and ever, &amp;c. <hi>uſque ad finem verſ.</hi> 18. <hi>paucis mutatis. Deinde</hi>
+               </p>
+               <p>MOſt glorious God, the Heaven is thy Throne, and the Earth is thy Footſtool; what houſe then can be built for thee, or what place is there that thou canſt reſt in? Howbeit we are
+<pb n="17" facs="tcp:171112:23"/>taught by thy Holy Word, that thy will is not to dwell in the dark Cloud, but that thy de<g ref="char:EOLhyphen"/>light hath bin ever with the Sons of Men; ſo that in any place what<g ref="char:EOLhyphen"/>ſoever, where two or three are gathered to<g ref="char:EOLhyphen"/>gether in thy name, thou art in the midſt of them; But ſpecially in ſuch places as are ſet apart and ſanctified to thy name, and to the memory of it, there thou haſt ſaid, thou wilt vouchſafe thy gra<g ref="char:EOLhyphen"/>cious Preſence after a more ſpecial manner, &amp; come to us and bleſs us.</p>
+               <pb n="18" facs="tcp:171112:24"/>
+               <p>Wherefore in all Ages of the world, thy Ser<g ref="char:EOLhyphen"/>vants have ſeparated certain places from all profane and common uſes, and hallow'd unto thy Divine Worſhip and ſervice, either by inſpiration of thy bleſ<g ref="char:EOLhyphen"/>ſed Spirit, or by expreſs Commandment from thine own mouth.</p>
+               <p>By inſpiration of thy holy Spirit. So didſt thou put into the heart of thy Holy Patriarch <hi>Jacob</hi> to erect a ſtone in <hi>Bethel</hi> to be an houſe to thee, which act of h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s thou didſt call for, and highly allow of.</p>
+               <pb n="19" facs="tcp:171112:24"/>
+               <p>By expreſſe Com<g ref="char:EOLhyphen"/>mandment from thine own mouth. So did <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> make thee the Ta<g ref="char:EOLhyphen"/>bernacle of the Con<g ref="char:EOLhyphen"/>gregation in the De<g ref="char:EOLhyphen"/>ſert, which thou didſt honour by covering it with a Cloud, and fill<g ref="char:EOLhyphen"/>ing it with thy Glory. And after, when it came into the heart of thy ſervant <hi>David</hi> to think it was in no wiſe fitting that himſelf ſhould dwell in an houſe of Cedar, and the Ark of God remain but in a Tabernacle, thou didſt teſtifie with thine own mouth, that in that <hi>Da<g ref="char:EOLhyphen"/>vid</hi>
+                  <pb n="20" facs="tcp:171112:25"/>was ſo minded to build a Houſe to thy Name, it was well done of him, to be ſo mind<g ref="char:EOLhyphen"/>ed, though he built it not.</p>
+               <p>The material Furni<g ref="char:EOLhyphen"/>ture for which houſe though his Father plen<g ref="char:EOLhyphen"/>tifully prepared, yet <hi>Solomon</hi> his Son built it and brought it to per<g ref="char:EOLhyphen"/>fection. To which Houſe thou wer't plea<g ref="char:EOLhyphen"/>ſed viſibly to ſend fire from Heaven to con<g ref="char:EOLhyphen"/>ſume the Sacrifice, and to fill it with the Glory of thy preſence before all the people.</p>
+               <p>And after, when for
+<pb n="21" facs="tcp:171112:25"/>the ſins of thy people that Temple was de<g ref="char:EOLhyphen"/>ſtroyed, thou didſt by thy Prophets, <hi>Aggai</hi> and <hi>Zachary</hi> (by ſhew<g ref="char:EOLhyphen"/>ing how inconvenient it was that they ſhould dwell in ſeeled houſes, and let thy houſe lye waſte) ſtir up the ſpi<g ref="char:EOLhyphen"/>rit of <hi>Zorobabel,</hi> to build thee the ſecond Tem<g ref="char:EOLhyphen"/>ple anew: which ſecond Houſe likewiſe by the fulneſs of the Glory of thy preſence, thou didſt ſhew thy ſelf to like and allow of.</p>
+               <p>Neither only wer't thou well pleaſed with ſuch as did build thee
+<pb n="22" facs="tcp:171112:26"/>theſe Temples, but e<g ref="char:EOLhyphen"/>ven with ſuch of the people afterwards, as being moved with Zeal added unto their Tem<g ref="char:EOLhyphen"/>ple, their <hi>Mother Church,</hi> leſſer places of prayer, by the names of Syna<g ref="char:EOLhyphen"/>gogues, in every Town thorowout the Land; for the Tribes to aſcend up to worſhip thee, to learn thy holy will and to do it. Which very Act of the Centurion, to build thy people a Synagogue, thou didſt well approve and com<g ref="char:EOLhyphen"/>mend in the Goſpel.</p>
+               <p>And by the bodily preſence of thy Son our
+<pb n="23" facs="tcp:171112:26"/>Saviour at the feaſt of the Dedication, teſtified by S. <hi>John,</hi> didſt really well allow of, and do honour to ſuch devout Religious ſervices, as we are now about to perform.</p>
+               <p>Which alſo by thy holy Word haſt taught us, that thine Apoſtles themſelves, and the Chriſtians in their time, as they had houſes to eat and drink in; ſo had they alſo where the whole Congre<g ref="char:EOLhyphen"/>gation of the Faith<g ref="char:EOLhyphen"/>ful came together in one place, which they expreſly called Gods
+<pb n="24" facs="tcp:171112:27"/>Church, and would not have it deſpiſed, nor a<g ref="char:EOLhyphen"/>buſed, nor eaten, nor drunken in, but had in great Reverence, being the very place of their holy Aſſemblies.</p>
+               <p>By whoſe godly ex<g ref="char:EOLhyphen"/>amples the Chriſtians in all Ages ſucceſſively have erected and con<g ref="char:EOLhyphen"/>ſecrated ſundry godly houſes, for the Cele<g ref="char:EOLhyphen"/>bration of Divine Ser<g ref="char:EOLhyphen"/>vice and Worſhip (Mo<g ref="char:EOLhyphen"/>numents of their Piety and Devotion) as our eyes ſee this day.</p>
+               <p>We then as Fellow-Citizens with the Saints and of the Houſhold of
+<pb n="25" facs="tcp:171112:27"/>God, being built upon the Foundation of the Apoſtles and Prophets, Jeſus Chriſt himſelf be<g ref="char:EOLhyphen"/>ing the head corner<g ref="char:EOLhyphen"/>ſtone, walking in the ſteps of their moſt holy Faith, and enſuing the examples of theſe thy Patriarchs, Prophets, and Apoſtles have toge<g ref="char:EOLhyphen"/>ther with them done the ſame work (I ſay) in building and dedica<g ref="char:EOLhyphen"/>ting this houſe, as an habitation for thee, and a place for us to aſſem<g ref="char:EOLhyphen"/>ble and meet together for the obſervation of thy Divine Worſhip, in<g ref="char:EOLhyphen"/>vocation of thy Name
+<pb n="26" facs="tcp:171112:28"/>reading, preaching and hearing thy moſt holy Word, adminiſtring thy moſt holy Sacraments; and above all in thy moſt holy place, the very gate of Heaven upon earth, as <hi>Jacob</hi> nam'd it, to do the work of Heaven; to ſet forth thy moſt worthy praiſe, to laud and magnify thy moſt glorious Maje<g ref="char:EOLhyphen"/>ſty, for all thy goodneſs to all men; eſpecially to us of the Houſhold of Faith. Accept there<g ref="char:EOLhyphen"/>fore we beſeech thee, moſt gracious Father, of this our bounden duty and ſervice; ac<g ref="char:EOLhyphen"/>cept
+<pb n="27" facs="tcp:171112:28"/>this for thine houſe; and becauſe Ho<g ref="char:EOLhyphen"/>lineſs becomes thine houſe for ever, ſanctifie this houſe with thy gra<g ref="char:EOLhyphen"/>cious preſence, which is erected to the honour of thy moſt glorious Name.</p>
+               <p>Now therefore, ariſe O Lord, and come into this place of thy reſt, thou and the ark of thy ſtrength; Let thine eye be open towards this Houſe day and night; Let thine ears be ready towards the prayers of thy children, which they ſhall make unto thee in this place, and
+<pb n="28" facs="tcp:171112:29"/>let thine heart delight to dwell here perpetu<g ref="char:EOLhyphen"/>ally: And whenſoever thy ſervants ſhall make to thee their petitions in this Houſe, either to be<g ref="char:EOLhyphen"/>ſtow thy good graces, &amp; bleſſings upon them, or to remove thy puniſh<g ref="char:EOLhyphen"/>ments and judgements from them, hear them from Heaven thy dwel<g ref="char:EOLhyphen"/>ling place, the Throne of the glory of thy Kingdom, and when thou heareſt have mer<g ref="char:EOLhyphen"/>cy; and grant, O Lord, we beſeech thee, that here and elſewhere thy Prieſts may be cloathed with Righteouſneſſe,
+<pb n="29" facs="tcp:171112:29"/>and thy Saints rejoyce in thy Salvation.</p>
+               <p>And whereas both in the Old and New Te<g ref="char:EOLhyphen"/>ſtament thou haſt con<g ref="char:EOLhyphen"/>ſecrated the meaſuring out and building of a material Church, to ſuch an excellent My<g ref="char:EOLhyphen"/>ſterie, that in it is ſi<g ref="char:EOLhyphen"/>gnified and repreſented the fruition of the joy of thy Heavenly king<g ref="char:EOLhyphen"/>dome, we beſeech thee that, in this material Temple made with hands, we may ſo ſerve and pleaſe thee in all holy Exerciſes of God<g ref="char:EOLhyphen"/>lineſs and Chriſtian Re<g ref="char:EOLhyphen"/>ligion, that in the end
+<pb n="30" facs="tcp:171112:30"/>we may come to that thy Temple on high, even to the holy places made without hands, whoſe Builder and Ma<g ref="char:EOLhyphen"/>ker is God; ſo as when we ſhall ceaſe to pray to thee on Earth, we may with all thoſe that have in the like manner erected ſuch places to thy Name, and with all thy Saints eternally praiſe thee in the high<g ref="char:EOLhyphen"/>eſt Heavens, for all thy goodneſs vouchſafed us for a time here on earth, and laid up for us there in thy King<g ref="char:EOLhyphen"/>dom for ever and ever; and that for thy dear
+<pb n="31" facs="tcp:171112:30"/>Sons ſake, our bleſſed Saviour Jeſus Chriſt, to whom, &amp;c.</p>
+               <p>Bleſſed Father, who haſt promiſed in thy holy Law, that in every place where the remem<g ref="char:EOLhyphen"/>brance of thy Name ſhall be put, thou wilt come unto us and bleſs us,; according to that thy promiſe come unto us and bleſs us, who put now upon this place the memorial of thy Name, by dedicating it wholly and only to thy Service and Worſhip.</p>
+               <p>Bleſsed Saviour, who in the Goſpel, with thy bodily preſence, didſt
+<pb n="32" facs="tcp:171112:31"/>honour and adorn the Feaſt of the dedication of the Temple; at this dedication of this Tem<g ref="char:EOLhyphen"/>ple unto thee be pre<g ref="char:EOLhyphen"/>ſent alſo, and accept, Good Lord, and pro<g ref="char:EOLhyphen"/>ſper the work of our hands.</p>
+               <p>Bleſsed Spirit, with<g ref="char:EOLhyphen"/>out whom nothing is holy, no perſon or place is ſanctified a<g ref="char:EOLhyphen"/>right, ſend down upon this place thy ſanctify<g ref="char:EOLhyphen"/>ing power and grace, hallow it, and make it to thee an holy habita<g ref="char:EOLhyphen"/>tion for ever.</p>
+               <p>Bleſſed and glorious Trinity, by whoſe Pow<g ref="char:EOLhyphen"/>er,
+<pb n="33" facs="tcp:171112:31"/>Wiſdom and Love all things are purged, lightened, and made perfect; enable us with thy Power, enlighten us with thy Truth, per<g ref="char:EOLhyphen"/>fect us with thy Grace, that both here and elſe<g ref="char:EOLhyphen"/>where acknowledging the glory of thy eter<g ref="char:EOLhyphen"/>nal Trinity, and in the Power of thy Divine Majeſty worſhipping the Unity, we may obtain to the fruition of the glorious Godhead, Tri<g ref="char:EOLhyphen"/>nity in Unity, and Uni<g ref="char:EOLhyphen"/>ty in Trinity to be ad<g ref="char:EOLhyphen"/>ored for ever.</p>
+               <p>God the Father, God the Son, and God the
+<pb n="34" facs="tcp:171112:32"/>Holy Ghoſt accept, ſanctifie, and bleſs this place to the end where<g ref="char:EOLhyphen"/>unto, according to his own Ordinance, we have ordain'd it, to be a Sanctuary to the moſt High, and a Church for the living God: The Lord with his favour ever mercifully behold it, and ſo ſend upon it his ſpiritual Benediction and Grace, that it may be the Houſe of God to him and the Gate of Heaven to us. <hi>Amen.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>Haec precatus Epiſco<g ref="char:EOLhyphen"/>pus Baptisterium adit, at<g ref="char:EOLhyphen"/>que impoſitâ manu ait,</hi>
+            </p>
+            <pb n="35" facs="tcp:171112:32"/>
+            <q>
+               <p>REgard, O Lord, the Supplications of thy Servants, and grant that thoſe Children that ſhall be baptiz'd in this Laver of the New birth, may be ſanctified and waſhed with the Holy Ghoſt; delivered from thy wrath, recei<g ref="char:EOLhyphen"/>ved into the Ark of Chriſts Church, receive herein the fulneſs of Grace, and ever remain in the number of thy faithful and elect Chil<g ref="char:EOLhyphen"/>dren.</p>
+            </q>
+            <p>
+               <hi>Suggeſtum dein:</hi>
+            </p>
+            <q>
+               <p>GRant that thy Ho<g ref="char:EOLhyphen"/>ly Word, which
+<pb n="36" facs="tcp:171112:33"/>from this place ſhall be preach'd, may be the ſavour of life unto life, and as good ſeed take root and fructify in the hearts of all that ſhall hear it.</p>
+            </q>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>quoque.</hi>
+            </p>
+            <q>
+               <p>GRant that by thy Holy Word, which from this place ſhall be read, the hearers may both perceive and know what things they ought to do, and alſo may have Grace and Power to fulfill the ſame.</p>
+            </q>
+            <pb n="37" facs="tcp:171112:33"/>
+            <p>
+               <hi>Sacram etiam Menſam.</hi>
+            </p>
+            <q>
+               <p>GRant that all they that ſhall at any time partake at this Table the higheſt bleſ<g ref="char:EOLhyphen"/>ſing of all, thy Holy Communion, may be fulfill'd with thy Grace and Heavenly Benedi<g ref="char:EOLhyphen"/>ction, and may to their great and endleſs Com<g ref="char:EOLhyphen"/>fort obtain Remiſſion of their ſins and all other Benefits of thy Paſſion.</p>
+            </q>
+            <p>
+               <hi>Locum Nuptiarum.</hi>
+            </p>
+            <q>
+               <p>GRant that ſuch per<g ref="char:EOLhyphen"/>ſons as ſhall be here
+<pb n="38" facs="tcp:171112:34"/>joyned together in the holy eſtate of Matrimo<g ref="char:EOLhyphen"/>nie by the Covenant of God, may live together in holy Love unto their lives end.</p>
+            </q>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>niverſum deni<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Pavi<g ref="char:EOLhyphen"/>mentum.</hi>
+            </p>
+            <q>
+               <p>GRant to ſuch bodies as ſhall be here in<g ref="char:EOLhyphen"/>terr'd, that they with us, and we with them, may have our perfect conſummation and bliſs both in body and ſoul in thine everlaſting kingdom.</p>
+            </q>
+            <pb n="39" facs="tcp:171112:34"/>
+            <p>
+               <hi>Tune flexis genibus ante ſacram Menſam pergit porrò.</hi>
+            </p>
+            <q>
+               <p>GRANT that this place which is here dedicated to thee by our Office and Miniſtry, may alſo be hallowed by the ſanctifying pow<g ref="char:EOLhyphen"/>er of thy holy Spirit, and ſo for ever continue through thy Mercy, O bleſſed Lord God, who doſt live and govern all things, world without end.</p>
+               <p>Grant as this Chap<g ref="char:EOLhyphen"/>pel is ſeparated from all other common and
+<pb n="40" facs="tcp:171112:35"/>profane uſes, and dedi<g ref="char:EOLhyphen"/>cated to thoſe that be ſacred only, ſo may all thoſe be that enter into it.</p>
+               <p>Grant that all wan<g ref="char:EOLhyphen"/>dring thoughts, all car<g ref="char:EOLhyphen"/>nal and worldly imagi<g ref="char:EOLhyphen"/>nations, may be farr from them; and all godly and ſpiritual co<g ref="char:EOLhyphen"/>gitations may come in their place, and may be daily renew'd and grow in them.</p>
+               <p>Grant that thoſe thy ſervants that ſhall come into this thy holy Tem<g ref="char:EOLhyphen"/>ple, may themſelves be made the Temples of the Holy Ghoſt, eſchew<g ref="char:EOLhyphen"/>ing
+<pb n="41" facs="tcp:171112:35"/>all things contrary to their profeſſion, and following all ſuch things as are agreeable to the ſame.</p>
+               <p>When they pray, that their prayers may a<g ref="char:EOLhyphen"/>ſcend up into Heaven into thy preſence, as the Incenſe; and the lifting up of their hands be as the morning ſacri<g ref="char:EOLhyphen"/>fice; purifie their hearts, and grant them their hearts deſire, ſanctifie their ſpirits, and fulfill all their mindes, that what they faithfully ask, they may effectu<g ref="char:EOLhyphen"/>ally obtain the ſame.</p>
+               <p>When they offer, that
+<pb n="42" facs="tcp:171112:36"/>their Oblation and Alms may come up as a Memorial before thee, and they finde and feel that with ſuch Sacrifices thou art well-pleaſed.</p>
+               <p>When they ſing, that their ſouls may be ſatiſ<g ref="char:EOLhyphen"/>fied as with marrow, and fatneſs, when their mouth praiſeth thee with joyful lips.</p>
+               <p>When they hear, that they hear not as the word of man, but as in<g ref="char:EOLhyphen"/>deed it is the Word of God, and not be idle Hearers, but Doers of the ſame.</p>
+            </q>
+            <p>
+               <hi>Populus interea tacitè
+<pb n="43" facs="tcp:171112:36"/>ingreſſus in imis ſubſtitit, dum haec in Cancellis a<g ref="char:EOLhyphen"/>gerentur; quibus finitis, ſedes quiſque ſuas juſſi ca<g ref="char:EOLhyphen"/>peſſunt, atque ad ſolen<g ref="char:EOLhyphen"/>nem Liturgiam Sacellani ſe parant.</hi>
+            </p>
+            <p>
+               <hi>Alter Sacellanorum co<g ref="char:EOLhyphen"/>ram ſacrâ menſâ vene<g ref="char:EOLhyphen"/>rans ſic incipit.</hi>
+            </p>
+            <q>
+               <p>IF we ſay, we have no ſin we deceive our ſelves, and the truth, &amp;c.</p>
+            </q>
+            <p>
+               <hi>Confeſſionem, Abſolu<g ref="char:EOLhyphen"/>tionem, Dominic.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>recitant, &amp;c. Pſalmos ca<g ref="char:EOLhyphen"/>nunt pro tempore accom<g ref="char:EOLhyphen"/>modos, Pſ.</hi> 84.122. <hi>&amp;</hi> 132. <hi>alternis reſpondente popu<g ref="char:EOLhyphen"/>lo quibus facultas erat &amp;
+<pb n="44" facs="tcp:171112:37"/>libri: Lectio prima defi<g ref="char:EOLhyphen"/>nitur ex</hi> 28. <hi>Geneſ. à ver. primo ad finem. Hymn.</hi> Te Deum, &amp;c. <hi>Lectio ſe<g ref="char:EOLhyphen"/>cunda ex ſecundo capite</hi> S. <hi>Joh. à verſu</hi> 13. <hi>ad fi<g ref="char:EOLhyphen"/>nem. Hymn. Pſal.</hi> 100.</p>
+            <q>
+               <p>I Believe in God, &amp;c. <hi>&amp; poſt uſitatas Colle<g ref="char:EOLhyphen"/>ctas hanc ſpecialem addi<g ref="char:EOLhyphen"/>dit Epiſcopus.</hi>
+               </p>
+               <p>O Lord God, mighty and glorious, and of incomprehenſible Majeſty, thou filleſt Heaven and earth with the Glory of thy pre<g ref="char:EOLhyphen"/>ſence, and canſt not be contain'd within any the
+<pb n="45" facs="tcp:171112:37"/>largeſt compaſs, much leſs within the narrow walls of this Roome; yet foraſmuch as thou haſt been pleaſed to command in thy holy Law, that we ſhould put the Remembrance of thy Name upon places, and in every ſuch place thou wilt come to us and bleſs us; we are here now aſſembled to put thy name upon this place, and the Memori<g ref="char:EOLhyphen"/>al of it, to make it thy houſe, to devote and dedicate it for ever un<g ref="char:EOLhyphen"/>to thee, utterly ſepara<g ref="char:EOLhyphen"/>ting it from all world<g ref="char:EOLhyphen"/>ly uſes, and wholly and
+<pb n="46" facs="tcp:171112:38"/>only conſecrate it to the invocation of thy glorious Name, where<g ref="char:EOLhyphen"/>in ſupplications and in<g ref="char:EOLhyphen"/>terceſſions may be made for all men; thy ſacred Word may be read, preached and heard; the Holy Sacraments, (the Laver of Regene<g ref="char:EOLhyphen"/>ration, and the Com<g ref="char:EOLhyphen"/>memoration of the pretious death of thy dear Son) may be ad<g ref="char:EOLhyphen"/>miniſtred; thy Praiſe celebrated and ſounded forth, thy people bleſ<g ref="char:EOLhyphen"/>ſed by putting thy Name upon them; we (poor and miſerable creatures as we are) be
+<pb n="47" facs="tcp:171112:38"/>altogether unfit, and utterly unworthy to appoint any earthly thing to ſo great a God; And I the leaſt of all thy ſervants, no wayes meet to appear before thee in ſo honourable a ſervice, yet being thou haſt oft heretofore been pleaſed to accept ſuch poor of<g ref="char:EOLhyphen"/>ferings from ſinful men, moſt humbly we be<g ref="char:EOLhyphen"/>ſeech thee, forgiving our manifold ſins, and making us worthy by counting us ſo, to vouchſafe to be preſent here among us in this religious action, and what we ſincerely offer
+<pb n="48" facs="tcp:171112:39"/>graciouſly to accept at our hands, to receive the prayers of us and all others, who either now or hereafter entring in<g ref="char:EOLhyphen"/>to this place, by us hal<g ref="char:EOLhyphen"/>lowed, ſhall call upon thee; And give us all grace when we ſhall come into the houſe of God, we may look to our feet, knowing that the place we ſtand on is holy ground, bringing hither clean thoughts, &amp; undefiled bodies, that we may waſh both our hearts and hands in in<g ref="char:EOLhyphen"/>nocency, and ſo compaſs thine Altar.</p>
+            </q>
+            <pb n="49" facs="tcp:171112:39"/>
+            <p>
+               <hi>Jam alter Sacellanus denuò exiens, &amp; venerans ante ſacram Menſam, in<g ref="char:EOLhyphen"/>cipit Litaniam; in fine eujus recitavit hoc ipſe Epiſcepus.</hi>
+            </p>
+            <q>
+               <p>O Lord God, who dwelleſt not in Temples made with hands (as ſaith the Pro<g ref="char:EOLhyphen"/>phet) yet haſt ever vouchſafed to accept the devout endeavours of thy poor ſervants allotting ſpecial places for thy Divine Worſhip, promiſing, even there, to hear and grant their requeſts; I humbly be<g ref="char:EOLhyphen"/>ſeech thee to accept of
+<pb n="50" facs="tcp:171112:40"/>this days duty and ſer<g ref="char:EOLhyphen"/>vice of dedicating this Chappel to thy great and glorious Name; Fulfill, O Lord, I pray thee thy gracious pro<g ref="char:EOLhyphen"/>miſes, that whatſoever prayer in this ſacred place ſhall be made ac<g ref="char:EOLhyphen"/>cording to thy will, may be accepted by thy gra<g ref="char:EOLhyphen"/>cious favour, and retur<g ref="char:EOLhyphen"/>ned with their deſir'd ſucceſs to thy glory and our Comfort. <hi>Amen.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>Poſt benedictionem po<g ref="char:EOLhyphen"/>puli cantatur Pſalm.</hi> 132. <hi>conſcenditque ſuggeſtum</hi> M. Robinſon, <hi>Theol. Bac. Fundatoris ſum mo roga<g ref="char:EOLhyphen"/>tu;
+<pb n="51" facs="tcp:171112:40"/>Epiſcopus hoc ei tan<g ref="char:EOLhyphen"/>dem conceſſit; (geminas ſorores ille atque Funda<g ref="char:EOLhyphen"/>tor in uxores duxerant, ſed utrâque defunctâ jane tertiis gaudebat thalamis Concionator.)</hi>
+            </p>
+            <p>
+               <hi>Thema ejus deſumptum è</hi> 28. <hi>Cap. Gen. verſ.</hi> 16, 17. <hi>inter coetera doctè egit de omnipraeſentiâ Divinâ, ubivi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Locorum tum ſpeciatim (pro bene<g ref="char:EOLhyphen"/>placito ſuo) in Eccleſia, deque reverentiâ &amp; ve<g ref="char:EOLhyphen"/>neratione ibi debitâ.</hi>
+            </p>
+            <p>
+               <hi>Pergitur in Liturgiâ, quâ Mulier quaedam pau<g ref="char:EOLhyphen"/>percula purificanda ad limen Cancellorum acce<g ref="char:EOLhyphen"/>dens, genua flectit, grati<g ref="char:EOLhyphen"/>áſque
+<pb n="52" facs="tcp:171112:41"/>post partum (ſolenni Eccleſiae ritu) agit: Baptizandus au<g ref="char:EOLhyphen"/>tem vel Matrimonio jun<g ref="char:EOLhyphen"/>gendus, nullus aderat.</hi>
+            </p>
+            <p>
+               <hi>Itur dein ad Coenae Do<g ref="char:EOLhyphen"/>minicae adminiſtratio<g ref="char:EOLhyphen"/>nem, Sacellanorum altero ad Auſtralem, altero ad Septentrionalem partem ſacrae menſae genn flectente &amp; dicente;</hi>
+            </p>
+            <q>
+               <p>OUr Father, &amp;c.</p>
+            </q>
+            <p>
+               <hi>Ante Epiſtolae lectio<g ref="char:EOLhyphen"/>nem hanc ſpecialem Col<g ref="char:EOLhyphen"/>lectam (unà cum Collectâ ſolitâ pro Rege) recitat Sacellanorum alter.</hi>
+            </p>
+            <pb n="53" facs="tcp:171112:41"/>
+            <q>
+               <p>MOſt bleſſed Savi<g ref="char:EOLhyphen"/>our, who by thy bodily preſence at the Feaſt of Dedication didſt honour and ap<g ref="char:EOLhyphen"/>prove ſuch devout and religious ſervices, as we have now in hand, be thou preſent alſo at this time with us, and con<g ref="char:EOLhyphen"/>ſecrate us into an Holy Temple unto thy ſelf, that thou dwelling in our hearts by Faith, we may be cleanſed from all carnal affections, and devoutly given to ſerve thee in all good works. <hi>Amen.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>Epistolam ſecundus Sa<g ref="char:EOLhyphen"/>cellanus
+<pb n="54" facs="tcp:171112:42"/>ante Sacram Menſam ſtans, legit ex</hi> 1 <hi>Cor. cap.</hi> 3. <hi>à verſ.</hi> 16. <hi>ad fluem: SS. Evange<g ref="char:EOLhyphen"/>lium prior Sacellanus ibi<g ref="char:EOLhyphen"/>dem ſtans recitat ex</hi> 100. <hi>cap. S. Johannis, à verſ.</hi> 22. <hi>ad finem: Dein Sym<g ref="char:EOLhyphen"/>bolum Nioenum, omnibus etiam ſtantibus.</hi>
+            </p>
+            <p>
+               <hi>Poſt illa Epiſcopus ſede ſuâ egreſſus, coram ſacrâ menſâ ſeſe provoluit at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ait.</hi>
+            </p>
+            <q>
+               <p>Let us pray the pray<g ref="char:EOLhyphen"/>er of King <hi>Solomon,</hi> w<hi rend="sup">ch</hi> he prayed in the day of the Dedication of his Temple; the firſt Tem<g ref="char:EOLhyphen"/>ple that ever was, 2 <hi>Chron.</hi> 6. <hi>ab initio verſ.</hi>
+                  <pb n="55" facs="tcp:171112:42"/>18. <hi>ad verſum</hi> 42. <hi>quo finito ait,</hi>
+               </p>
+               <p>THus prayed King <hi>Solomon,</hi> and the Lord appeared unto him, and anſwered and ſaid unto him, I have heard thy prayer, and have choſen this place for my ſelf, to be an houſe of Sacrifice, 2 <hi>Chron.</hi> 7.12.</p>
+               <p>Thus did God an<g ref="char:EOLhyphen"/>ſwer; We have prayed with <hi>Solomon,</hi> anſwer us, O Lord, and our prayer, as thou didſt him and his. Behold the face of thine Anointed, even Chriſt our Savi<g ref="char:EOLhyphen"/>our,
+<pb n="56" facs="tcp:171112:43"/>and for his ſake grant our requeſts.</p>
+            </q>
+            <p>
+               <hi>Dein in Cathedram ibidemſe collocat,</hi> (<hi>aſſi<g ref="char:EOLhyphen"/>dentibus</hi> Thoma Ridley <hi>Cancellario Epiſcopi à dextris, à ſiniſtris vero Doctore</hi> Barlo <hi>Archidia<g ref="char:EOLhyphen"/>cono</hi> Winton.) <hi>Actum<g ref="char:EOLhyphen"/>que Conſecrationis (pileo tectus) promulgat in hanc formam.</hi>
+            </p>
+            <q>
+               <p>IN nomine Domini Amen. <hi>Cum ſtrenuus vir</hi> Richardus Smith <hi>de</hi> Peertree <hi>in Comitatu</hi> Southampt. <hi>Armiger, pia &amp; Religioſa Devo<g ref="char:EOLhyphen"/>tione
+<pb n="57" facs="tcp:171112:43"/>ductus, Capellam hanc in quodam ſolo vaſto vocato</hi> Ridgway-heath, <hi>juxta aedes ſuas commu<g ref="char:EOLhyphen"/>niter nuncupatas</hi> Peer<g ref="char:EOLhyphen"/>tree (<hi>infra Parodhiam Eccleſiae paroch. Beatae</hi> Mariae <hi>juxta villam</hi> Southampt. <hi>Dioceſeos &amp; juriſdectionis noſtrae, continentem intra muros ejuſdem in longitudine ab Oriente ad Occiden<g ref="char:EOLhyphen"/>tem</hi> 50 <hi>pedes &amp; dimid. aut circiter; in latitu dine vero ab Aquilone ad Auſtrum</hi> 20 <hi>pedes &amp; dimid. aut circiter, pro<g ref="char:EOLhyphen"/>priis
+<pb n="58" facs="tcp:171112:44"/>ſais ſumptibus ae<g ref="char:EOLhyphen"/>dificaverit, erexerit, &amp; conſtruxerit; eandem<g ref="char:EOLhyphen"/>que Capellam Cancellis ligneis diſtinxerit; ſa<g ref="char:EOLhyphen"/>cra Menſa decenter in<g ref="char:EOLhyphen"/>ſtructa, Baptiſterio, Pul<g ref="char:EOLhyphen"/>pito, ſedibus convenien<g ref="char:EOLhyphen"/>tibus, tam infra ſuper ſolum, quam ſupra in mo<g ref="char:EOLhyphen"/>dum Galeriae, Campana etiam alliiſque neceſſariis ad divinum cultum ſuffi<g ref="char:EOLhyphen"/>cienter &amp; decenter or<g ref="char:EOLhyphen"/>naverit; nobiſque ſup<g ref="char:EOLhyphen"/>plicaverit, tam ſuo no<g ref="char:EOLhyphen"/>mine quam aliorum inha<g ref="char:EOLhyphen"/>bitantium in villa de</hi>
+                  <pb n="59" facs="tcp:171112:44"/>Weſton, <hi>ac Hamlettis de <hi>Itchin, Ridgway,</hi> ac quorundam etiam inhabi<g ref="char:EOLhyphen"/>tantium in Manerio no<g ref="char:EOLhyphen"/>ſtro de</hi> Bitterne, <hi>de Pa<g ref="char:EOLhyphen"/>rochia praedicta, quatenus nos authoritate nostra or<g ref="char:EOLhyphen"/>dinaria &amp; Epiſcopali pro nobis &amp; ſucceſſori<g ref="char:EOLhyphen"/>bus noſtris dictam Ca<g ref="char:EOLhyphen"/>pellam ab uſibus priſtinis communibus &amp; profanis quibuſcunque ſeparare, &amp; in uſus ſacros &amp; di<g ref="char:EOLhyphen"/>vinos conſecrare, &amp; de<g ref="char:EOLhyphen"/>dicare dignaremur.</hi>
+               </p>
+               <p>
+                  <hi>Nos</hi> Lancelotus <hi>per<g ref="char:EOLhyphen"/>miſſione divina</hi> Win<g ref="char:EOLhyphen"/>ton.
+<pb n="60" facs="tcp:171112:45"/>
+                  <hi>Epiſcopus, pio &amp; re<g ref="char:EOLhyphen"/>ligioſo tam ipſius quam aliorum in villa et Ham<g ref="char:EOLhyphen"/>lettis praedictis habitan<g ref="char:EOLhyphen"/>tium deſiderio, in hac parte favorabiliter annu<g ref="char:EOLhyphen"/>entes, ad Conſecrationem Capellae hujus de novo propriis ſumptibus dicti ſtrenui viri</hi> Richardi Smith, <hi>ſic ut praefertur erectae et ornatae authori<g ref="char:EOLhyphen"/>tate noſtra ordinaria et Epiſcopali procedentes, eandem Capellam ab om<g ref="char:EOLhyphen"/>ni communi et profano uſu in perpetuum ſepara<g ref="char:EOLhyphen"/>mus, et ſoli divino cul<g ref="char:EOLhyphen"/>tui
+<pb n="61" facs="tcp:171112:45"/>ac divinorum cele<g ref="char:EOLhyphen"/>brationi in perpetuum addicimus, dicamus, de<g ref="char:EOLhyphen"/>dicamus: Ac inſuper eadem authoritate noſtra ordinaria et Epiſco<g ref="char:EOLhyphen"/>pali, pro nobis et Succeſ<g ref="char:EOLhyphen"/>ſoribus noſtris licentiam pariter et facultatem in Domino concedimus, ad rem divinam ibidem fa<g ref="char:EOLhyphen"/>ciendam, nempe Preces publicas, et ſacram Ec<g ref="char:EOLhyphen"/>cleſiae Litwrgiam reci<g ref="char:EOLhyphen"/>tandam, ad Verbum Dei ſincere proponendum et praedicandum, Sacramen<g ref="char:EOLhyphen"/>ta Sacrae Euchariſtiae et
+<pb n="62" facs="tcp:171112:46"/>Baptiſmatis in eadem miniſtranda, Matrimo<g ref="char:EOLhyphen"/>nia ſolemnizanda, Mu<g ref="char:EOLhyphen"/>lieres poſt puerperium ad gratiarum actionem pub<g ref="char:EOLhyphen"/>licam recipiendas et ad<g ref="char:EOLhyphen"/>juvandas, Mortuos ſepe<g ref="char:EOLhyphen"/>liendos, caeteraque quae<g ref="char:EOLhyphen"/>canque peragenda, quae in aliis Capellis licite fie<g ref="char:EOLhyphen"/>ri poſſunt et ſolent. Ac tam Presbytero in Capel<g ref="char:EOLhyphen"/>la praedicta deſervituro preces divinas dicendi, coeteraque praemiſſa faci<g ref="char:EOLhyphen"/>endi, quam Domino</hi> Ric. Smith, <hi>et Familiae ejus, reliquiſque in dictis locis
+<pb n="63" facs="tcp:171112:46"/>habitantibus, preces di<g ref="char:EOLhyphen"/>vinas audiendi, coetera<g ref="char:EOLhyphen"/>que praemiſſa percipiendi, plenam in Domino po<g ref="char:EOLhyphen"/>teſtatem concedimus. E<g ref="char:EOLhyphen"/>andemque Capellam ad levamen</hi> (<hi>Anglice,</hi> a Chappel of Eaſe) <hi>ſub dicta Eccleſia parochiali B.</hi> Mariae <hi>juxta villam Southamp. tanquam Ma<g ref="char:EOLhyphen"/>trice Eccleſia ſua, quantum in nobis eſt, et de jure divino, Canonibus Eccleſiae et Statutis hujus Regni</hi> Angliae <hi>poſſumus, in honorem Dei et ſacros inhabitantium uſus, nunc
+<pb n="64" facs="tcp:171112:47"/>et in futurum conſecra<g ref="char:EOLhyphen"/>mus, per nomen Capellae JESU in Parochia ſanctae</hi> Mariae <hi>juxta villam</hi> Southampt. <hi>et ſic con<g ref="char:EOLhyphen"/>ſecratam fuiſſe, et eſſe, et in futuris perpetuis tem<g ref="char:EOLhyphen"/>poribus remanere debere, palam et publice pronun<g ref="char:EOLhyphen"/>clamus, decernimus, et declaramus; et per no<g ref="char:EOLhyphen"/>men</hi> Capellae <hi>JESU no<g ref="char:EOLhyphen"/>minamus et appellamus; et ſic perpetuis futuris temporibus nominandam et appellandam fore de<g ref="char:EOLhyphen"/>cernimus: Privilegiis inſuper omnibus et ſingu<g ref="char:EOLhyphen"/>lis
+<pb n="65" facs="tcp:171112:47"/>in capte uſitatis, et Ca<g ref="char:EOLhyphen"/>pellis ab antiquo funda<g ref="char:EOLhyphen"/>tis competentibus, Capel<g ref="char:EOLhyphen"/>lam hanc JESU praedi<g ref="char:EOLhyphen"/>ctam; ad omnem juris effectum munitam muni<g ref="char:EOLhyphen"/>tam et ſtabilitam eſſe vo<g ref="char:EOLhyphen"/>lumus; et quantum in no<g ref="char:EOLhyphen"/>bis eſt, et de jure divino poſſumus, fic munimus et ſtabilimus per praeſentes; Abſque praejudicio ta<g ref="char:EOLhyphen"/>men ullo, et ſalvo ſemper jure et intereſſe Eccleſiae Parochialis ſanctae</hi> Ma<g ref="char:EOLhyphen"/>riae <hi>juxta villam</hi> South<g ref="char:EOLhyphen"/>ampton. <hi>tanquam Ma<g ref="char:EOLhyphen"/>tricis Eccleſiae; et Recto<g ref="char:EOLhyphen"/>ris,
+<pb n="66" facs="tcp:171112:48"/>Guardianorum, alio<g ref="char:EOLhyphen"/>rumque Miniſtrorum e<g ref="char:EOLhyphen"/>juſdem pro tempore ex<g ref="char:EOLhyphen"/>iſtentium (in cujus Pa<g ref="char:EOLhyphen"/>rochiu dicta Capella JE<g ref="char:EOLhyphen"/>SU notorie ſita &amp; ſituata eſt) in omnibus &amp; ſin<g ref="char:EOLhyphen"/>gulis decimis, oblationi<g ref="char:EOLhyphen"/>bus, obventionibus, va<g ref="char:EOLhyphen"/>diis, feudis, proficuis, privilegiis, juribus et emolumentis quibuſcun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ordinariis et extraordi<g ref="char:EOLhyphen"/>nariis eiſdem reſpective debitis vel conſuetis, ac infra praecinctum ſeu li<g ref="char:EOLhyphen"/>mites Capellae JESU prae<g ref="char:EOLhyphen"/>dictae orientibus et prove<g ref="char:EOLhyphen"/>nientibus,
+<pb n="67" facs="tcp:171112:48"/>et ad dictam Eccleſiam Matricem ſanctae</hi> Mariae, <hi>Rectori, Guardianis vel aliis Mi<g ref="char:EOLhyphen"/>nistris ejuſdem de jure vel conſuetudine quoquo modo ſpectantibus, vel pertinentibus; in tam amplis modo et forma, prout eiſdem debebantur, aut ſolvi ſolebant, ante hanc noſtram conſecrati<g ref="char:EOLhyphen"/>onem hujus Capellae prae<g ref="char:EOLhyphen"/>dictae.</hi>
+               </p>
+               <p>
+                  <hi>Proviſo, quod praedi<g ref="char:EOLhyphen"/>ctus ſtrenuus vir</hi> Rich. Smith, <hi>ac ejus haeredes et Aſſignati, aliique in
+<pb n="68" facs="tcp:171112:49"/>dicta villa et Hamlet<g ref="char:EOLhyphen"/>tis, &amp;c. habitantes, non ſolum dictam Capellam quoties opus fuerit, im<g ref="char:EOLhyphen"/>penſis ſuis propriis refi<g ref="char:EOLhyphen"/>cere et reparare, ſed eti<g ref="char:EOLhyphen"/>am ad reparationes prae<g ref="char:EOLhyphen"/>dictae Matricis Eccleſiae ſanctae</hi> Mariae <hi>juxta vil<g ref="char:EOLhyphen"/>lam</hi> Southampon. <hi>et Coemeterii ejuſdem Ec<g ref="char:EOLhyphen"/>cleſiae, ac adomnia alia onera, ad quae coeteri Pa<g ref="char:EOLhyphen"/>rochiani dictae Matricis Ecclefiae teneantur.</hi>
+               </p>
+               <p>
+                  <hi>Proviſo etiam, quod tam dictus ſtrenuus vir</hi> Rich. Smith, <hi>haeredes et
+<pb n="69" facs="tcp:171112:49"/>aſſiguati ejus, quam reli<g ref="char:EOLhyphen"/>qui omnes in dictis villis et Hamlettis,</hi> &amp;c. <hi>habi<g ref="char:EOLhyphen"/>tantes, in ſignum ſubje<g ref="char:EOLhyphen"/>ctionis Capellae hujus ſub Eccleſiae Matrice Beatae</hi> Mariae <hi>juxta</hi> Southamp. <hi>ac ſenioritatis ejuſdem Eccleſiae ſupra dictam Capellam, ſingulis annis de tempore ad tempus ad Feſtum Paſchatis, vel ad Feſtum Pentecoſtes, ad dictam Eccleſiam Matri<g ref="char:EOLhyphen"/>cem venire, et in dicta Matrice Eccleſia tantum, non in dicta Capella, (ſi tuto ad Eccleſiam Parc<g ref="char:EOLhyphen"/>chialem
+<pb n="70" facs="tcp:171112:50"/>venire poſſint) Preces audire, et Sacra<g ref="char:EOLhyphen"/>mentum Euchariſtiae ibi<g ref="char:EOLhyphen"/>dem percipere; vel ſi tempeſtate aut alio impe<g ref="char:EOLhyphen"/>dimento detineantur, quo minus tunc venire poſſint, tum die Dominico, quo tuto venire poſſunt, ſub<g ref="char:EOLhyphen"/>ſequente, venire et Eu<g ref="char:EOLhyphen"/>chariſtiam accipere om<g ref="char:EOLhyphen"/>nino teneantur, abſque ſpeciali Licentia nostra, ſen Vicarii noſtri gene<g ref="char:EOLhyphen"/>ralis in hac parte ob<g ref="char:EOLhyphen"/>tenta.</hi>
+               </p>
+               <p>Proviſo etiam quod in dicta Capella Sacramen<g ref="char:EOLhyphen"/>tum
+<pb n="71" facs="tcp:171112:50"/>Baptiſmatis non mi<g ref="char:EOLhyphen"/>niſtretur, nec Matrimo<g ref="char:EOLhyphen"/>nia ſolemnizentur, neque Verbum Dei praedicetur, neque Saecramenta vel Sacramentalia aliquibus profanis conferantur, praeterquam ſolis inhabi<g ref="char:EOLhyphen"/>tantibus ſeu degentibus in villa, Hamlettis, <hi>&amp;c.</hi> praedict. nec etiam reli<g ref="char:EOLhyphen"/>quis dictae Matricis Ec<g ref="char:EOLhyphen"/>cleſiae Parochianis in Oc<g ref="char:EOLhyphen"/>cidentali parte ripae in<g ref="char:EOLhyphen"/>habitantibus, inſcio vel invito Rectore Eccleſiae Matricis ſanctae <hi>Mariae</hi> juxta villam <hi>Southamp.
+<pb n="72" facs="tcp:171112:51"/>praedict. ſeu abſque aſ<g ref="char:EOLhyphen"/>ſenſu, conſenſu et licentia ejuſdem prius habita et obtenta.</hi>
+               </p>
+               <p>
+                  <hi>Et ulterius dicto ſtre<g ref="char:EOLhyphen"/>nuo</hi> Richardo Smith, <hi>Haeredibus et Aſſignatis ſuis, liberam et plenam poteſtatem in Domino concedimus per praeſen<g ref="char:EOLhyphen"/>tes, idoneum Presbyterum de tempore in tempus no<g ref="char:EOLhyphen"/>minandi ad deſervien<g ref="char:EOLhyphen"/>dum, et divina officia in dicta Capella exequenda, a Nobis et Succeſſoribus noſtris de tempore in tempus approbandum, et
+<pb n="73" facs="tcp:171112:51"/>licentiandum: Ac quo<g ref="char:EOLhyphen"/>dictus ſtrenuus vir</hi> Rich. Smith, <hi>haeredes &amp; aſſi<g ref="char:EOLhyphen"/>gnati ſui, &amp; reliqui in dictis villa &amp; Hamlet<g ref="char:EOLhyphen"/>tis,</hi> &amp;c. <hi>inhabitantes de tempore in tempus in fu<g ref="char:EOLhyphen"/>turum propriis ſuis ſum<g ref="char:EOLhyphen"/>ptibus dictum Presbyterum ſive Curatum in eadem Capella deſerviemem, &amp; authoritate noſtra, vei ſucceſſorum nostrorum ut praefertur approbatum &amp; licentiatum, alent &amp; ſuſtinebunt, ac annuale ſtipendium viginti mar<g ref="char:EOLhyphen"/>carum ad minimum ei<g ref="char:EOLhyphen"/>eidem
+<pb n="74" facs="tcp:171112:52"/>Presbytero vel Curato praeſtabunt, &amp; ſolvent ad quatuor Feſta; Nativitatis Chriſti; An<g ref="char:EOLhyphen"/>nuntiationas; Nativita<g ref="char:EOLhyphen"/>tis ſancti Johannis Ba<g ref="char:EOLhyphen"/>ptiſtae; &amp; ſancti Mi<g ref="char:EOLhyphen"/>chaelis, per aequales por<g ref="char:EOLhyphen"/>tiones, ſine ulla tamen di<g ref="char:EOLhyphen"/>minutione, vel defalca<g ref="char:EOLhyphen"/>tione juris Eccleſiaſtici, decimarum, oblationum, vel obventionum qua<g ref="char:EOLhyphen"/>rumcunque ad dictam Eccleſiam Parochialem ſanctae</hi> Mariae, <hi>ſeu ad Rectorem ejus pro tem<g ref="char:EOLhyphen"/>pore exiſtentem, quo modo
+<pb n="75" facs="tcp:171112:52"/>de jure vel conſuetudine ſpectantium ſeu pertinen<g ref="char:EOLhyphen"/>tium.</hi>
+               </p>
+               <p>
+                  <hi>Et ulterius quod pro ſepulturis in Capello prae<g ref="char:EOLhyphen"/>dicta, et in Choro ſeu na<g ref="char:EOLhyphen"/>vi ejuſdem, omnibuſque aliis in dicta Capella vel extra gerendis, vadia, quoad defunctos tam in domo dicti ſtrenui viri</hi> Rich. Smith, <hi>Haeredum &amp; Aſſignatorum ſuorune, quam in dicta villae, Hamlettis,</hi> &amp;c. <hi>Rectori dictae Eccleſiae Matricis pro tempore exiſtenti, et ſucceſſoribus ſuis, et
+<pb n="76" facs="tcp:171112:53"/>Guardianis reſpective, et Clerico, caeteriſque Mi<g ref="char:EOLhyphen"/>niſtris dictae Eccleſiae Parochialis debite ſol<g ref="char:EOLhyphen"/>vantur, in tam amplis modo et forma, prout pro ſepalturis in Choro ſeu intra Cancellos, ſeu etiam in navi dictae Eccleſiae Matricis, ſolvi conſue<g ref="char:EOLhyphen"/>tum fuit, et prout ſolvi ſolet et deberet, ſi perſo<g ref="char:EOLhyphen"/>nae praedictae intra Can<g ref="char:EOLhyphen"/>cellos ſeu navim dictae Matricis Eccleſiae ſepul<g ref="char:EOLhyphen"/>tae fuiſſent.</hi>
+               </p>
+               <p>
+                  <hi>Quod ſi autem ali<g ref="char:EOLhyphen"/>quando defuerit in dicta
+<pb n="77" facs="tcp:171112:53"/>Capella Presbyter, Cu<g ref="char:EOLhyphen"/>ratus legitime per nos aut ſucceſſores noſtros licen<g ref="char:EOLhyphen"/>tiatus et approbatus, tune praedictus ſtrenuus vir</hi> Rich. Smith, <hi>Haeredes et aſſignati ſui ac reliqui in dicta villa, et Ham<g ref="char:EOLhyphen"/>lettis,</hi> &amp;c. <hi>inhabitantes, ad Matricem Eccleſiam convenire, aut ibidem precibus intereſſe tenean<g ref="char:EOLhyphen"/>tur, prout ante ſolebant, donec dicta Capella de legitimo Curato, ad ibi<g ref="char:EOLhyphen"/>dem divina celebrandae idonee provideatur et i<g ref="char:EOLhyphen"/>dem admittatur. Quod ſi
+<pb n="78" facs="tcp:171112:54"/>autem aliquo tempore in poſterum, quod Deus a<g ref="char:EOLhyphen"/>vertat, per continuos ſex menſes per culpam aut negligentiam Parochia<g ref="char:EOLhyphen"/>norum defuerit idoneus Curatus in dicta Capella, qui ibidem divina cele<g ref="char:EOLhyphen"/>bret, aut ſi Curatus ſit qui per ſex menſes con<g ref="char:EOLhyphen"/>tinuos non celebret, tunc nobis et ſucceſſoribus no<g ref="char:EOLhyphen"/>ſtris poteſtatem reſerva<g ref="char:EOLhyphen"/>mus pro ea vice tantum, idoneum Curatum, ad dictam Capellam nomi<g ref="char:EOLhyphen"/>nandi, ad ſupplendam negligentiam dictorum</hi>
+                  <pb n="79" facs="tcp:171112:54"/>Rich. Smith, <hi>Haeredum &amp; Aſſignatorum ſuorum. Quod ſi autem dicta Ca<g ref="char:EOLhyphen"/>pella decenter non fuerit reparata vel inſtructa Li<g ref="char:EOLhyphen"/>bris, aliiſque ad cultum divinum neceſſariis per tempus praedictum (niſi ex legitima in ea parte cauſa per Epiſcopum ap<g ref="char:EOLhyphen"/>probanda hoc contigerit) tunc in perpetuum poſt di<g ref="char:EOLhyphen"/>ctos ſex Menſes continu<g ref="char:EOLhyphen"/>os ſic elapſos, teneantur omnes infra praecinctum, ſeu limites dictae Capellae inhabitantes ad Matri<g ref="char:EOLhyphen"/>cem Eccleſiam convenire,
+<pb n="80" facs="tcp:171112:55"/>pro divinis, audiendis, prout ante hanc noſtram conſecrationem teneban<g ref="char:EOLhyphen"/>tur; aliqua in hac conceſ<g ref="char:EOLhyphen"/>ſione ſeu conſecratione noſtra in contrarium non obſtante, ac perinde ac ſi haec conceſſio ſeu conſe<g ref="char:EOLhyphen"/>cratio facta nunquam fu<g ref="char:EOLhyphen"/>iſſet.</hi>
+               </p>
+               <p>
+                  <hi>Poſtremo reſervamus nobis &amp; ſucceſſoribus no<g ref="char:EOLhyphen"/>ſtris, Epiſcopis</hi> Winton. <hi>poteſtatem viſitandi di<g ref="char:EOLhyphen"/>ctam Capellam, prout a<g ref="char:EOLhyphen"/>lias Capellas infra no<g ref="char:EOLhyphen"/>ſtram Dioceſin ſituatas, communiter nuncupatas</hi>
+                  <pb n="81" facs="tcp:171112:55"/>peculiares, <hi>ut nobis eiſ<g ref="char:EOLhyphen"/>que conſtet, an decenter in reparationibus aliiſque conſervetur, &amp; an omnia ibidem decenter &amp; ſe<g ref="char:EOLhyphen"/>cundum ordinem fiant. Quae omnia et ſingula ſic reſervamus; quoad coe<g ref="char:EOLhyphen"/>tera vero praemiſſ a quate<g ref="char:EOLhyphen"/>nus in nobis eſt, et de jure poſſumus, pro nobis et ſucceſſoribus noſtris de<g ref="char:EOLhyphen"/>cernimus et ſtabilimus per praeſentes.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>Actu demum recitato veneratur denuò, atque infit.</hi>
+            </p>
+            <pb n="82" facs="tcp:171112:56"/>
+            <q>
+               <p>BLeſſed be thy name O Lord God, for that it pleaſed thee to have thy Habitation a<g ref="char:EOLhyphen"/>mong the Sons of Men: and to dwell in the midſt of the Aſſembly of thy Saints upon earth; Bleſs we beſeech thee this days action unto thy people, proſper thou the work of our hands unto us, yea proſper thou our handy work.</p>
+            </q>
+            <p>
+               <hi>Finitis precationibus iſtis Dominus Epiſcopus ſedem ſeparatim ca<g ref="char:EOLhyphen"/>peſſit (ubi priús) popu<g ref="char:EOLhyphen"/>lúſque univerſus non com<g ref="char:EOLhyphen"/>municaturus
+<pb n="83" facs="tcp:171112:56"/>dimittitur, &amp; Porta clauditur; Pri<g ref="char:EOLhyphen"/>or Sacellanus pergit le<g ref="char:EOLhyphen"/>gendo ſèntentias illas hor<g ref="char:EOLhyphen"/>tatorias ad Eleemoſynas, interea dum alter Sacel<g ref="char:EOLhyphen"/>lanus ſingulos Communi<g ref="char:EOLhyphen"/>caturos adit, atque in pa<g ref="char:EOLhyphen"/>tinam argenteam oblatio<g ref="char:EOLhyphen"/>nes colligit: Collecta eſt ſumma</hi> 4. l. 12. s. 2. d. <hi>quam Dominus Epiſcopus convertendam in Calicem huic Capellae donandum decernit.</hi>
+            </p>
+            <p>
+               <hi>Caeteris rebus ordine geſtis, demum Epiſcopus ad ſacram Menſam redit (Sacellanis utriſque ali<g ref="char:EOLhyphen"/>quantulum recedentibus) lotiſque manibus, pane
+<pb n="84" facs="tcp:171112:57"/>fracto, vino in Calicem effuſo, &amp; aquâ admiſtâ, ſtans ait,</hi>
+            </p>
+            <q>
+               <p>ALmighty God our Heavenly Fa<g ref="char:EOLhyphen"/>ther, &amp;c.</p>
+            </q>
+            <p>
+               <hi>Euchariſtiam ipſe primo loco accipit, ſub utrâque ſpecie: proximo loco tradit Fundatori (quem jam co<g ref="char:EOLhyphen"/>ram ſacrâ Menſâ in genua ſupplicem collocarant) dè<g ref="char:EOLhyphen"/>in utrique Sacellano. Ad coeteros verò pergentem E<g ref="char:EOLhyphen"/>piſcopum atque panem iis tradentem, prior Sacella<g ref="char:EOLhyphen"/>nus ſubſequitur</hi> &amp; <hi>Cali<g ref="char:EOLhyphen"/>cem ordine porrigit. Cum vinum, quod prius effude<g ref="char:EOLhyphen"/>rat, non ſufficeret, Epiſco<g ref="char:EOLhyphen"/>pus
+<pb n="85" facs="tcp:171112:57"/>de novo in Calicem ex poculo, quod in ſacrâ Menſâ ſtabat effundit, admiſtâque aquâ, recitat clarè verba illa conſecra<g ref="char:EOLhyphen"/>toria.</hi>
+            </p>
+            <p>
+               <hi>Finitâ tandem exhi<g ref="char:EOLhyphen"/>bitione Dominus Epiſco<g ref="char:EOLhyphen"/>pus ad Sacrae Menſae Se<g ref="char:EOLhyphen"/>ptentrionem in genibus, recitante quoque populo, ait,</hi>
+            </p>
+            <q>
+               <p>OUr Father, &amp;c.</p>
+               <p>O Lord our Heavenly Father, &amp;c.</p>
+               <p>GLory be to God on high, &amp;c.</p>
+            </q>
+            <pb n="86" facs="tcp:171112:58"/>
+            <p>
+               <hi>Concludit denique cum hac precatione.</hi>
+            </p>
+            <q>
+               <p>BLeſſed be thy name O Lord, that it hath pleaſed thee to put into the heart of this thy ſervant to erect an houſe to thy worſhip and ſervice, by whoſe pains, Care &amp; Coſt, this work was begun and finiſh'd. Bleſs (O Lord) his ſubſtance and ac<g ref="char:EOLhyphen"/>cept the work of his hands: Remember him O our God concerning this, wipe not out this kindnes of his that he hath ſhew'd for the houſe of his God; and
+<pb n="87" facs="tcp:171112:58"/>the offices thereof, and make them truly thank<g ref="char:EOLhyphen"/>ful to thee, that ſhall en<g ref="char:EOLhyphen"/>joy the Benefit thereof, and the eaſe of it; and what is by him well in<g ref="char:EOLhyphen"/>tended, make them rightly to uſe it, which well be the beſt fruit and to God moſt acceptable.</p>
+            </q>
+            <p>
+               <hi>Post haec vota populum stans dimittit cum Bene<g ref="char:EOLhyphen"/>dictione hac.</hi>
+            </p>
+            <q>
+               <p>THe peace of God which paſſeth all underſtanding, keep your hearts and Minds in the Knowledg and Love of God, and of his
+<pb n="88" facs="tcp:171112:59"/>Son Jeſus Chriſt our Lord: and the Bleſſing of God Almighty, the Fa<g ref="char:EOLhyphen"/>ther, the Son, and the Holy Ghoſt be amongſt you, and remain with you alwayes. <hi>Amen.</hi>
+               </p>
+            </q>
+         </div>
+         <div n="cemetery" type="consecration">
+            <pb n="89" facs="tcp:171112:59"/>
+            <head>Conſecratio COEMETERII.</head>
+            <p>
+               <hi>STatim à prandio (quod in aedibus ſuis vicinis Fun<g ref="char:EOLhyphen"/>dator Capellae ſatìs lautè apparârat Domino Epi<g ref="char:EOLhyphen"/>ſcopo, atque convenarum magnae frequentiae) ad rem divinam reverſis, alter Sacellanorum praeit.</hi>
+            </p>
+            <p>OUr Father, &amp;c.</p>
+            <pb n="90" facs="tcp:171112:60"/>
+            <p>
+               <hi>Poſt Reſponſas, Pſalmus</hi> 90 <hi>recitatur alternis.</hi>
+            </p>
+            <p>
+               <hi>Poſt Pſalmum Epiſco<g ref="char:EOLhyphen"/>pus cum univerſâ multi<g ref="char:EOLhyphen"/>tudine egreditur Capellâ, atque ad Orientalem Coe<g ref="char:EOLhyphen"/>meterii partem ſtans, de<g ref="char:EOLhyphen"/>nuò ſciſcitatur.</hi>
+            </p>
+            <q>
+               <p>Captain <hi>Smith,</hi> for what have you called us hither again?</p>
+            </q>
+            <p>
+               <hi>Ille ſchedulam, ut priùs humillimè porrigit, quam praefatus a Regiſtris reci<g ref="char:EOLhyphen"/>tat in haec verba.</hi>
+            </p>
+            <q rend="margQuotes">
+               <p>IN the name of <hi>Rich<g ref="char:EOLhyphen"/>ard Smith</hi> of <hi>Peertree</hi> in the County of <hi>Sou<g ref="char:EOLhyphen"/>thamton</hi>
+                  <pb n="91" facs="tcp:171112:60"/>Eſquire, R. Reverend Father in God, I preſent unto you the ſtate of the Village of <hi>Weſton.</hi> &amp;c. <hi>ut priùs, uſque ad, the River can<g ref="char:EOLhyphen"/>not be paſſed,</hi> whereby it often commeth to paſs that they have bin con<g ref="char:EOLhyphen"/>ſtrain'd to bury their dead in the open fields, the water not being paſſable, or if they durſt venture over, yet the dead Body was follow'd with ſo little Company, as was no way ſeemly.</p>
+               <p>And thus much for<g ref="char:EOLhyphen"/>merly having bin pre<g ref="char:EOLhyphen"/>ſented to your Prede<g ref="char:EOLhyphen"/>ceſſour,
+<pb n="92" facs="tcp:171112:61"/>the R. R. F. in God, <hi>James</hi> late Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Winton;</hi> and Petition to him made to give and to grant leave unto the ſaid <hi>Ri<g ref="char:EOLhyphen"/>chard Smith,</hi> to encloſe a piece of ground for a burial place on the Eaſt ſide of the ſaid River, he favourably gave licence and grant<g ref="char:EOLhyphen"/>ed power unto the ſaid <hi>Richard Smith</hi> ſo to do, as may appear by an inſtrument under his Epiſcopal Seal, bearing date the 23. of <hi>February</hi> in the year of our Lord God according to the Computation of
+<pb n="93" facs="tcp:171112:61"/>the Church of <hi>England</hi> 1617.</p>
+               <p>Which place of Bu<g ref="char:EOLhyphen"/>rial being now en<g ref="char:EOLhyphen"/>clos'd with a decent Rail of Timber, at the only proper coſt and charges of him the ſaid <hi>Richard Smith,</hi> with intent and pur<g ref="char:EOLhyphen"/>poſe that it might be dedicated and conſe<g ref="char:EOLhyphen"/>crated only &amp; wholly for Chriſtian burial, for him the ſaid <hi>Richard Smith,</hi> and his Family, and the ſaid inhabi<g ref="char:EOLhyphen"/>tants, and none other.</p>
+               <p> In which reſpect I be<g ref="char:EOLhyphen"/>ſeech God to accept of this ſincere intent and
+<pb n="94" facs="tcp:171112:62"/>purpoſe, and both he and they are together humble Suiters to your Lordſhip, as Gods Mi<g ref="char:EOLhyphen"/>niſter, the Biſhop and Ordinary of this Dio<g ref="char:EOLhyphen"/>ceſs, in Gods ſtead to accept this his free-will offering, and to decree this ground ſevered from all former com<g ref="char:EOLhyphen"/>mon and profane uſes, and to ſever it, as by the Word of God and prayer, and other ſpe<g ref="char:EOLhyphen"/>cial Religious duties to dedicate and conſe<g ref="char:EOLhyphen"/>crate it to be a Coeme<g ref="char:EOLhyphen"/>terie or place of Chri<g ref="char:EOLhyphen"/>ſtian burial, as afore<g ref="char:EOLhyphen"/>ſaid; wherein their
+<pb n="95" facs="tcp:171112:62"/>bodies may be laid up until the day of the general Reſurrection; promiſing that they will ever ſo hold it for holy ground, and uſe it accordingly, apply<g ref="char:EOLhyphen"/>ing it to no other uſe, but that only; and that they will from time to time, and ever hereaf<g ref="char:EOLhyphen"/>ter, as need ſhall be, ſee it conveniently re<g ref="char:EOLhyphen"/>pair'd and fenced in ſuch ſort as a Coemete<g ref="char:EOLhyphen"/>ry or burying place ought to be.</p>
+            </q>
+            <p>
+               <hi>Hoc ipſum verò (ab Epiſcopo paucis interroga<g ref="char:EOLhyphen"/>ti) vivâ voce confirmant
+<pb n="96" facs="tcp:171112:63"/>Fundator, &amp; qui è vici<g ref="char:EOLhyphen"/>niâ</hi>
+            </p>
+            <p>
+               <hi>Lectio prima deſumitur è</hi> 23. <hi>Gen. Secunda Le<g ref="char:EOLhyphen"/>ctio deſtinabatur è pri<g ref="char:EOLhyphen"/>mâ Epiſt. ad</hi> Cor. <hi>cap.</hi> 15. <hi>à verſ.</hi> 15. <hi>ad finem, propter anguſtias temporis omiſſâ.</hi>
+            </p>
+            <p>
+               <hi>Tum Dominus Epiſco<g ref="char:EOLhyphen"/>pus in genua ibi ſubmiſſus precatur.</hi>
+            </p>
+            <q>
+               <p>O Lord God thou haſt been pleaſed to teach us in thy holy Word, as to put a diffe<g ref="char:EOLhyphen"/>rence between the ſoul of a Beaſt, and the ſpirit
+<pb n="97" facs="tcp:171112:63"/>of a Man; for the ſoul of a Beaſt goes down to to the earth from whence it came, and the ſpirit of man returneth unto God that gave it; ſo to make diverſe ac<g ref="char:EOLhyphen"/>compts of the Bodies of Mankind and the Bodies of other living Crea<g ref="char:EOLhyphen"/>tures; in ſo much as the Body of Adam was re<g ref="char:EOLhyphen"/>ſolved on, and was af<g ref="char:EOLhyphen"/>terwards the workman<g ref="char:EOLhyphen"/>ſhip of thine own hands, and endued with a ſoul from thine own breath: But much more ſince the ſecond Adam, thy bleſſed Son, by taking upon him our nature, ex<g ref="char:EOLhyphen"/>alted
+<pb n="98" facs="tcp:171112:64"/>this fleſh of ours to be fleſh of his fleſh, whoſe fleſh thou ſufferedſt not to ſee Corruption; ſo that the Body returns to the earth, and the ſoul to him that gave it. It ſhall from thence return again, it is but a reſt, and a reſt in hope (as ſaith the Pſalmiſt) for it is a righteous thing with God that the Body which was partaker with the ſoul both in doing and ſuffering, ſhould be rais'd again from the Earth to be partaker al<g ref="char:EOLhyphen"/>ſo with the ſoul of the reward, or puniſhment which God in Mercy or
+<pb n="99" facs="tcp:171112:64"/>Iuſtice ſhall reward, not to one of them alone, but jointly to them both.</p>
+               <p>There being then ſo great difference, it is not thy will, ô Lord, that our Bodies ſhould be caſt out as the Bodies of Beaſts to become dung for the earth, or our bones lye ſcatter'd abroad to the ſight of the ſun; But when thy ſervants are gathered to their Fa<g ref="char:EOLhyphen"/>thers, their Bodies ſhould be decently and ſeemly laid up in the bo<g ref="char:EOLhyphen"/>ſom of the Earth from whence they were taken.</p>
+               <p>Neither is it thy plea<g ref="char:EOLhyphen"/>ſure, ô Lord, that they
+<pb n="100" facs="tcp:171112:65"/>ſhould be buryed as an Aſſe in the open fields but in a place choſen and ſet apart for that purpoſe.</p>
+               <p>For even ſo from the Begining we find that the holy Patriarchs Abraham (the Father of the faithfull) would not bury his dead in the common fields; nay nor amongſt the Bodys of the Hethites who were heathen men, but pur<g ref="char:EOLhyphen"/>chaſed a buriall-place for himſelf in the plain of <hi>Mamre</hi> which became as it were the Church-Yard of the Patriarchs, therein they laid the
+<pb n="101" facs="tcp:171112:65"/>dead bodies of <hi>Sarah</hi> his Wife, of himſelf, his ſon <hi>Iſaac,</hi> and <hi>Rebeccae</hi> his wife; after them <hi>Ja<g ref="char:EOLhyphen"/>cob</hi> and <hi>Leah</hi> were buri<g ref="char:EOLhyphen"/>ed there.</p>
+               <p>After this manner did the Patriarchs in old time, who truſted in God, ſever themſelves places for Burial: whoſe children we are ſo long as we do their works, and walk in the ſteps of their moſt holy Faith.</p>
+               <p>Enſuing then the ſteps of the Faith of our Father <hi>Abraham,</hi> we for the ſame purpoſe have made choice of the very ſame place, wherein we
+<pb n="102" facs="tcp:171112:66"/>now are; that it may be as the Cave of <hi>Mam<g ref="char:EOLhyphen"/>re,</hi> even Gods ſtore<g ref="char:EOLhyphen"/>houſe for the bodies of ſuch our Brethren and Siſters to be laid up in, as he ſhall ordein there to be interr'd; there to reſt in the ſleep of peace till the laſt Trump ſhall awake them; for they ſhall awake and riſe up that ſleep in the duſt; for thy dew ſhall be as the dew of hearbs, and the earth ſhall yield forth her dead.</p>
+               <p>We beſeech thee good Lord to accept this work of ours in ſhewing mer<g ref="char:EOLhyphen"/>cy to the dead; and
+<pb n="103" facs="tcp:171112:66"/>mercifully grant, that they whoſe bodies ſhall be here beſtowed, and we all, may never for<g ref="char:EOLhyphen"/>get the day of putting off the Tabernacle of this fleſh, but that living we may think upon death, and dying we may apprehend life; and riſing from the death of Sin to the life of Righ<g ref="char:EOLhyphen"/>teouſneſs, which is the firſt riſing of Grace, we may have our parts in the ſecond, which is the riſing to glory by thy Mercy, O moſt gracious Lord God, who doeſt live and govern all things, world without end.</p>
+            </q>
+            <pb n="104" facs="tcp:171112:67"/>
+            <p>
+               <hi>Priorem dein formu<g ref="char:EOLhyphen"/>lam per omnia ſecutus, in Cathedram ibi ſe collocat, atque Actum conſecratio<g ref="char:EOLhyphen"/>nis promulgat.</hi>
+            </p>
+            <q>
+               <p>IN DEI Nomine. Amen. <hi>Nos</hi> Lance<g ref="char:EOLhyphen"/>lotus <hi>permiſſione divina</hi> Winton. <hi>Epiſcopus hunc locum jacentem in vasto ſolo vulgo nuncupatum</hi> Ridgway-heath, <hi>infra Parochiam Eccleſiae paro<g ref="char:EOLhyphen"/>chialis ſanctae</hi> Mariae, <hi>&amp;c. &amp; jam propriis ſumpti<g ref="char:EOLhyphen"/>bus ſtrenui viri</hi> Richardi Smith <hi>de</hi> Peertree <hi>Ar<g ref="char:EOLhyphen"/>migeri in circuitu Ca<g ref="char:EOLhyphen"/>pellae
+<pb n="105" facs="tcp:171112:67"/>noviter ab co quoque propriis ſumptibus ſuis conſtitutae, palis incluſum &amp; arboribus conſitum; continentem in longitu<g ref="char:EOLhyphen"/>dine</hi> 148 <hi>pedes, aut cir<g ref="char:EOLhyphen"/>citer, in latitudine <hi>124</hi> pedes, aut circiter, in to<g ref="char:EOLhyphen"/>to vero circuitu</hi> 435 <hi>pe<g ref="char:EOLhyphen"/>des aut circiter; a priſti<g ref="char:EOLhyphen"/>nis, aliiſque quibuſcunque communibus uſibus &amp; profanis in uſus ſacros ſe<g ref="char:EOLhyphen"/>parandum fore decerni<g ref="char:EOLhyphen"/>mus, &amp; ſic ſeparamus; ac cundem inhabitantibus vel degentibus in familia</hi> Ric. Smith, <hi>in villa de</hi>
+                  <pb n="106" facs="tcp:171112:68"/>Weſton, <hi>Hamletti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> de</hi> Itchin, Wolſton, Ridg<g ref="char:EOLhyphen"/>way, <hi>&amp; in parte Mane<g ref="char:EOLhyphen"/>rii de</hi> Bitterne, <hi>quae eſt de Parochia ſanctae</hi> Ma<g ref="char:EOLhyphen"/>riae <hi>juxta</hi> Southampton. <hi>in Coemeterium ſive lo<g ref="char:EOLhyphen"/>cum Sepulturae pro corpo<g ref="char:EOLhyphen"/>ribus inibi decedentium Chriſtiano ritu humandis, quantum in nobis eſt, ac de jure &amp; Canonibus Ec<g ref="char:EOLhyphen"/>cleſiaſtic is, ac de ſtatutis hujus Regni Angliae poſ<g ref="char:EOLhyphen"/>ſumus authoritate noſtra ordinaria &amp; Epiſcopali aſſignamus: ac per no<g ref="char:EOLhyphen"/>men Coemeterii Capellae
+<pb n="107" facs="tcp:171112:68"/>JESU deſignamus, dedi<g ref="char:EOLhyphen"/>camus, &amp; in uſum prae<g ref="char:EOLhyphen"/>dictum conſecramus: ac ſic aſſignatum, dedicatum, &amp; conſecratum fuiſſe &amp; eſſe &amp; in futurum, per<g ref="char:EOLhyphen"/>petuis temporibus rema<g ref="char:EOLhyphen"/>nere debere palam ac publice declaramus; Ac Coemeterium Capellae JE<g ref="char:EOLhyphen"/>SU deinceps in perpetuum nuncupandum decerni<g ref="char:EOLhyphen"/>mus: Privilegiis inſuper omnibus et ſingulis Coe<g ref="char:EOLhyphen"/>meteriis et locis ſepulturae ab antiquo conſecratis et dedicatis competent. Coe<g ref="char:EOLhyphen"/>meterium praedict<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m ſive
+<pb n="108" facs="tcp:171112:69"/>locum ſepulturae ad om<g ref="char:EOLhyphen"/>nem juris effectum muni<g ref="char:EOLhyphen"/>tum eſſe volumus, et quan<g ref="char:EOLhyphen"/>tum in nobis eſt et de jure poſſumus, ſic munimus et ſtabilimus per praeſentes.</hi>
+               </p>
+               <p>
+                  <hi>Proviſo tamen, quod praedict.</hi> Richardus, <hi>Hae<g ref="char:EOLhyphen"/>redes et Aſſignati ſui, ac reliqui in dicta villa, Hamlettis, etc. inhabitan<g ref="char:EOLhyphen"/>tes, propriis ſuis ſumpti<g ref="char:EOLhyphen"/>bus dictum Coemeterium de tempore in tempus, in decenti ſta<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u conſerva<g ref="char:EOLhyphen"/>bunt, et clauſuras ejus quoties opus fuerit ſuffici<g ref="char:EOLhyphen"/>enter et convenienter re<g ref="char:EOLhyphen"/>parabunt.
+<pb n="109" facs="tcp:171112:69"/>Salvis etiam et omnino reſervatis Rectori Eccleſiae Parochialis ſan<g ref="char:EOLhyphen"/>ctae</hi> Mariae <hi>praedictae, ac Guardianis aliiſque Mi<g ref="char:EOLhyphen"/>niſtris dictae Eccleſiae pro<g ref="char:EOLunhyphen"/>tempore exiſtentibus in perpetuum, omnibus et ſingulis oblationibus, mor<g ref="char:EOLhyphen"/>tuariis, Feudis et vadiis, pro omnibus et ſingulis ſe<g ref="char:EOLhyphen"/>pulturis Mortuorum in hoc Coemeterio; aut ratio<g ref="char:EOLhyphen"/>ne eorundem de jure, ſive conſuetudine debitis, et in tam amplis modo et for<g ref="char:EOLhyphen"/>ma, ac ſi perſonae praedictae ſepultae fuiſſent in Coeme<g ref="char:EOLhyphen"/>terio
+<pb n="110" facs="tcp:171112:70"/>Matricis Eccleſiae praedictae. Quas quidem oblationes et mortuaria, feuda et vadia omnia et ſingula ſic de jure ac con<g ref="char:EOLhyphen"/>ſuetudine debita Rectori, Guardianis et Miniſtris dictae Matricis Eccleſiae pro tempore exiſtentibus in perpetuum ſolvendi, quantum in nobis eſt, et jura patiuntur, reſerva<g ref="char:EOLhyphen"/>mus per praeſentes: ſalva item nobis et ſucceſſoribus noſtris, tanquam loci Or<g ref="char:EOLhyphen"/>dinariis, poteſtate viſi<g ref="char:EOLhyphen"/>tandi dictum Coemeterium de tempore in tempus, et
+<pb n="111" facs="tcp:171112:70"/>inquirendi an ſufficienter reparatum fuerit in clau<g ref="char:EOLhyphen"/>ſuris; et an omniae ibi decenter et ſecundum or<g ref="char:EOLhyphen"/>dinem fiant; et, ſi minus fiant, per cenſur as Eccle<g ref="char:EOLhyphen"/>ſiaſtic as corrigendi.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>His finitis precatur denuò.</hi>
+            </p>
+            <q>
+               <p>LOrd God of <hi>Abra<g ref="char:EOLhyphen"/>ham, Iſaac</hi> and <hi>Ja<g ref="char:EOLhyphen"/>cob,</hi> who becauſe thou art the God, not of the dead, but of the Living, ſheweſt hereby that they are living and not dead, and that with thee do live the ſpirits of all
+<pb n="112" facs="tcp:171112:71"/>them that dye in the Lord, and in whom the Souls of them that are Elect, after they be de<g ref="char:EOLhyphen"/>livered from the burden of this fleſh, be in joy and felicity; Thou haſt ſaid thou wilt turn men into ſmall duſt, and after that wilt ſay, Return again you Children of men: Thou art the God of Truth, and haſt ſaid it; thou art the God of power and might, and wilt do it; by that pow<g ref="char:EOLhyphen"/>er whereby thou art a<g ref="char:EOLhyphen"/>ble to ſubdue all things unto thy ſelf, and bring to paſs whatſoever plea<g ref="char:EOLhyphen"/>ſeth thee in Heaven and
+<pb n="113" facs="tcp:171112:71"/>Earth, with whom no<g ref="char:EOLhyphen"/>thing is impoſſible.</p>
+               <p>Lord Jeſu Chriſt, who art the Reſurrection and the Life, in whom if we believe, though we be dead yet ſhall we live; who by thy death haſt overcome death, and by thy r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſing again haſt opened to us the Gate of everlaſting life, who ſhalt ſend thine Angels and gather the bodies of thine Elect from all the Ends of the Earth, and eſpecially thoſe who by a myſti<g ref="char:EOLhyphen"/>cal union are fleſh of thy fleſh, and in whoſe hearts thou haſt dwelt
+<pb n="114" facs="tcp:171112:72"/>by Faith; We humbly beſeech thee for them, whoſe bodies ſhall in this place be gathered to their Fathers, that they may reſt in this hope of Reſurrection to eternal life through thee, O bleſſed Lord God, who ſhalt change their vile bodies, that they may be like thy Glorious bo<g ref="char:EOLhyphen"/>dy according to the mighty working where<g ref="char:EOLhyphen"/>by thou art able to bring all things, even death and all into ſub<g ref="char:EOLhyphen"/>jection to thy ſelf.</p>
+               <p>Holy and bleſſed Spi<g ref="char:EOLhyphen"/>rit, the Lord and giver of life, whoſe Temples
+<pb n="115" facs="tcp:171112:72"/>the bodies of thy Ser<g ref="char:EOLhyphen"/>vants are, by thy ſancti<g ref="char:EOLhyphen"/>fying Grace dwelling in them; we verily truſt that their bodies that have been thy Temples, and thoſe hearts in which Chriſt hath dwelt by Faith, ſhall not ever dwell in corruption, but that as by thy ſending forth thy Breath at firſt we received our being, Motion, and Life in the beginning of the Crea<g ref="char:EOLhyphen"/>tion, ſo at the laſt by the ſame Spirit ſending forth the ſame breath in the end of the Con<g ref="char:EOLhyphen"/>ſummation, Life, Being and Moving ſhall be re<g ref="char:EOLhyphen"/>ſtored
+<pb n="116" facs="tcp:171112:73"/>us again; ſo that after our diſſolution, as thou didſt ſhew thy ho<g ref="char:EOLhyphen"/>ly Prophet, the dry bones ſhall come toge<g ref="char:EOLhyphen"/>ther again, Bone to his Bone, and Sinews and Fleſh ſhall come upon them, and thou ſhalt cauſe thy Breath to en<g ref="char:EOLhyphen"/>ter into them, and we ſhall live; and this Cor<g ref="char:EOLhyphen"/>ruption ſhall put on In<g ref="char:EOLhyphen"/>corruption, and this Mortal ſhall put on Im<g ref="char:EOLhyphen"/>mortality.</p>
+               <p>God the Father, God the Son, and God the Holy Ghoſt, accept, ſan<g ref="char:EOLhyphen"/>ctify and bleſs this place to that end whereunto
+<pb n="117" facs="tcp:171112:73"/>according to thine own Ordinance we have or<g ref="char:EOLhyphen"/>dain'd it, even to beſtow the Bodies of thy Ser<g ref="char:EOLhyphen"/>vants in, till, the number of thine Elect being ac<g ref="char:EOLhyphen"/>compliſhed, they with us, and we with them, and with all other de<g ref="char:EOLhyphen"/>parted in the true Faith of thy Holy Name, ſhall have our conſummation and Bliſs both in Body and Soul in thy eternal and everlaſting glory.</p>
+               <p>Bleſſed Saviour, that didſt for this end dye and riſe again, that thou mighteſt be Lord both of the Living and the Dead, whether we live
+<pb n="118" facs="tcp:171112:74"/>or die thou art our Lord, and we are thine; living or dying we com<g ref="char:EOLhyphen"/>mend our ſelves unto thee, have mercy upon us, and keep us thine for evermore.</p>
+            </q>
+            <p>
+               <hi>Reintrantes igitur Ca<g ref="char:EOLhyphen"/>pellam cantant priorem partem Pſal.</hi> 16. <hi>Con<g ref="char:EOLhyphen"/>ſcendit Suggeſtum Ma<g ref="char:EOLhyphen"/>giſter</hi> Matthaeus Wren; <hi>Thema ei poſterior pars verſ.</hi> 17. <hi>cap.</hi> 2. S. <hi>Joan.</hi> Zelus domus tuae, &amp;c. <hi>Agit de affectibus in Chri<g ref="char:EOLhyphen"/>ſto, Zelo inter coereros; nec illo falſo, ſed pro Deo; nec coeco, ſed ſecundùm ſcientiam, pro Domo, pro
+<pb n="119" facs="tcp:171112:74"/>Cultu Dei; de praeſentiâ Dei, praecipuè in Templis; magno non Morum ſolum<g ref="char:EOLhyphen"/>modò noſtrorum, ſed ſpei quoque et Fidei incremen<g ref="char:EOLhyphen"/>to fulcimentoque: Denm Locorum diſtinctione gau<g ref="char:EOLhyphen"/>dere confirmat, tum exem<g ref="char:EOLhyphen"/>plo mirifico</hi> Jacobi <hi>tan<g ref="char:EOLhyphen"/>toperè diſtinguentis</hi> Be<g ref="char:EOLhyphen"/>thel; <hi>tum maximo omnium miraculo, quo Chriſtus Mercatores è Templo eje<g ref="char:EOLhyphen"/>cit. Enarratis Chriſti per hoc factum devotionibus concludit in debitam à nobis Templorum reve: en<g ref="char:EOLhyphen"/>tiam, atque istius Funda<g ref="char:EOLhyphen"/>toris Encomium meritiſſi<g ref="char:EOLhyphen"/>mum</hi>
+            </p>
+            <p>
+               <hi>Cantatur pars reliqua;
+<pb n="120" facs="tcp:171112:75"/>&amp; Veſpertinae precationes (incipiendo jam á Sym<g ref="char:EOLhyphen"/>bolo Apoſtolico) ſecundùm communem Eccleſiae for<g ref="char:EOLhyphen"/>mulam, finiuntur.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:171112:75"/>
+         </div>
+      </body>
+   </text>
+</TEI>
